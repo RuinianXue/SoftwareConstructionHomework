@@ -1,0 +1,15 @@
+D:\Github\SoftwareConstructionHomework\HW2\CheckMatrix\CheckMatrix\bin\Debug\net6.0\CheckMatrix.exe
+D:\Github\SoftwareConstructionHomework\HW2\CheckMatrix\CheckMatrix\bin\Debug\net6.0\CheckMatrix.deps.json
+D:\Github\SoftwareConstructionHomework\HW2\CheckMatrix\CheckMatrix\bin\Debug\net6.0\CheckMatrix.runtimeconfig.json
+D:\Github\SoftwareConstructionHomework\HW2\CheckMatrix\CheckMatrix\bin\Debug\net6.0\CheckMatrix.dll
+D:\Github\SoftwareConstructionHomework\HW2\CheckMatrix\CheckMatrix\bin\Debug\net6.0\CheckMatrix.pdb
+D:\Github\SoftwareConstructionHomework\HW2\CheckMatrix\CheckMatrix\obj\Debug\net6.0\CheckMatrix.csproj.AssemblyReference.cache
+D:\Github\SoftwareConstructionHomework\HW2\CheckMatrix\CheckMatrix\obj\Debug\net6.0\CheckMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\SoftwareConstructionHomework\HW2\CheckMatrix\CheckMatrix\obj\Debug\net6.0\CheckMatrix.AssemblyInfoInputs.cache
+D:\Github\SoftwareConstructionHomework\HW2\CheckMatrix\CheckMatrix\obj\Debug\net6.0\CheckMatrix.AssemblyInfo.cs
+D:\Github\SoftwareConstructionHomework\HW2\CheckMatrix\CheckMatrix\obj\Debug\net6.0\CheckMatrix.csproj.CoreCompileInputs.cache
+D:\Github\SoftwareConstructionHomework\HW2\CheckMatrix\CheckMatrix\obj\Debug\net6.0\CheckMatrix.dll
+D:\Github\SoftwareConstructionHomework\HW2\CheckMatrix\CheckMatrix\obj\Debug\net6.0\refint\CheckMatrix.dll
+D:\Github\SoftwareConstructionHomework\HW2\CheckMatrix\CheckMatrix\obj\Debug\net6.0\CheckMatrix.pdb
+D:\Github\SoftwareConstructionHomework\HW2\CheckMatrix\CheckMatrix\obj\Debug\net6.0\CheckMatrix.genruntimeconfig.cache
+D:\Github\SoftwareConstructionHomework\HW2\CheckMatrix\CheckMatrix\obj\Debug\net6.0\ref\CheckMatrix.dll
