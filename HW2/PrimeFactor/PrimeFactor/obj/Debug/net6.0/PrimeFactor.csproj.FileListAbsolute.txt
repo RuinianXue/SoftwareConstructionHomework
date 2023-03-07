@@ -1,0 +1,15 @@
+D:\Github\SoftwareConstructionHomework\PrimeFactor\PrimeFactor\obj\Debug\net6.0\PrimeFactor.csproj.AssemblyReference.cache
+D:\Github\SoftwareConstructionHomework\PrimeFactor\PrimeFactor\obj\Debug\net6.0\PrimeFactor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\SoftwareConstructionHomework\PrimeFactor\PrimeFactor\obj\Debug\net6.0\PrimeFactor.AssemblyInfoInputs.cache
+D:\Github\SoftwareConstructionHomework\PrimeFactor\PrimeFactor\obj\Debug\net6.0\PrimeFactor.AssemblyInfo.cs
+D:\Github\SoftwareConstructionHomework\PrimeFactor\PrimeFactor\obj\Debug\net6.0\PrimeFactor.csproj.CoreCompileInputs.cache
+D:\Github\SoftwareConstructionHomework\PrimeFactor\PrimeFactor\bin\Debug\net6.0\PrimeFactor.exe
+D:\Github\SoftwareConstructionHomework\PrimeFactor\PrimeFactor\bin\Debug\net6.0\PrimeFactor.deps.json
+D:\Github\SoftwareConstructionHomework\PrimeFactor\PrimeFactor\bin\Debug\net6.0\PrimeFactor.runtimeconfig.json
+D:\Github\SoftwareConstructionHomework\PrimeFactor\PrimeFactor\bin\Debug\net6.0\PrimeFactor.dll
+D:\Github\SoftwareConstructionHomework\PrimeFactor\PrimeFactor\bin\Debug\net6.0\PrimeFactor.pdb
+D:\Github\SoftwareConstructionHomework\PrimeFactor\PrimeFactor\obj\Debug\net6.0\PrimeFactor.dll
+D:\Github\SoftwareConstructionHomework\PrimeFactor\PrimeFactor\obj\Debug\net6.0\refint\PrimeFactor.dll
+D:\Github\SoftwareConstructionHomework\PrimeFactor\PrimeFactor\obj\Debug\net6.0\PrimeFactor.pdb
+D:\Github\SoftwareConstructionHomework\PrimeFactor\PrimeFactor\obj\Debug\net6.0\PrimeFactor.genruntimeconfig.cache
+D:\Github\SoftwareConstructionHomework\PrimeFactor\PrimeFactor\obj\Debug\net6.0\ref\PrimeFactor.dll
