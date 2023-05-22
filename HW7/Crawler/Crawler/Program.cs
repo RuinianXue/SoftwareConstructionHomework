@@ -26,6 +26,7 @@ namespace SimpleCrawler
             new Thread(myCrawler.Crawl).Start();
         }
 
+
         private void Crawl()
         {
             Console.WriteLine("开始爬行了.... ");
@@ -48,7 +49,7 @@ namespace SimpleCrawler
             }
         }
 
-        public string DownLoad(string url)
+        public string DownLoad(string url) //
         {
             try
             {
