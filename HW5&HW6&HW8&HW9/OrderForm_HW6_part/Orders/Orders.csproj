@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1C64CF78-89E2-4ED2-8D19-F76732D23891}</ProjectGuid>
-    <OutputType>WinExe</OutputType>
-    <RootNamespace>OrderForm_HW6_part</RootNamespace>
-    <AssemblyName>OrderForm_HW6_part</AssemblyName>
+    <ProjectGuid>{E79B2227-5B02-4884-A7A0-C6A19DC97B73}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Orders</RootNamespace>
+    <AssemblyName>Orders</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,6 +33,13 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -47,44 +54,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DetailEditWindow.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="DetailEditWindow.Designer.cs">
-      <DependentUpon>DetailEditWindow.cs</DependentUpon>
-    </Compile>
-    <Compile Include="EditWindow.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="EditWindow.Designer.cs">
-      <DependentUpon>EditWindow.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MainWindow.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MainWindow.Designer.cs">
-      <DependentUpon>MainWindow.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ParentWindow.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ParentWindow.Designer.cs">
-      <DependentUpon>ParentWindow.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="DetailEditWindow.resx">
-      <DependentUpon>DetailEditWindow.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="EditWindow.resx">
-      <DependentUpon>EditWindow.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MainWindow.resx">
-      <DependentUpon>MainWindow.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ParentWindow.resx">
-      <DependentUpon>ParentWindow.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -107,15 +78,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadata Include="Connected Services\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Orders\Orders.csproj">
-      <Project>{e79b2227-5b02-4884-a7a0-c6a19dc97b73}</Project>
-      <Name>Orders</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

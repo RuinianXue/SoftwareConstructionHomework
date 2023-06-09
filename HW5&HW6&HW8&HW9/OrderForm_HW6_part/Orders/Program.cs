@@ -1,9 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Orders
 {
@@ -25,7 +23,8 @@ namespace Orders
         {
             get => Details.Sum(d => d.Amount);//如果写字段需要保持冗余数据一致性，容易出现错误
         }
-        public Order() {
+        public Order()
+        {
             CreateTime = DateTime.Now;
         }
         public Order(int id, Customer customer)
@@ -54,12 +53,7 @@ namespace Orders
         {
             // var obj as Order;
             //return obj != null && Id == obj.Id;
-            return obj is Order order && obj != null&& Id == order.Id;
-        }
-
-        public override int GetHashCode() 
-        {
-            return HashCode.Combine(Id);
+            return obj is Order order && obj != null && Id == order.Id;
         }
 
         public override string ToString()
@@ -78,7 +72,7 @@ namespace Orders
         public int CompareTo(Order other)
         {
             if (other == null) return 1;
-            return Id-other.Id;
+            return Id - other.Id;
         }
 
         public static bool operator <(Order left, Order right)
@@ -127,10 +121,6 @@ namespace Orders
                    Product.Equals(details.Product);
         }
 
-        public override int GetHashCode()//
-        {
-            return HashCode.Combine(Product);
-        }
 
         public override string ToString()
         {
@@ -155,10 +145,6 @@ namespace Orders
                    Name == customer.Name;
         }
 
-        public override int GetHashCode()
-        {
-            return HashCode.Combine(Name);
-        }
 
         public override string ToString()
         {
@@ -183,20 +169,15 @@ namespace Orders
                    Name == product.Name;
         }
 
-        public override int GetHashCode()
-        {
-            return HashCode.Combine(Name);
-        }
-
         public override string ToString()
         {
             return $"Name: {Name}, Price: {Price}";
         }
     }
-   
+
     public class OrderService
     {
-        private readonly List<Order> orders=new List<Order>();
+        private readonly List<Order> orders = new List<Order>();
 
         public OrderService()
         {
@@ -224,8 +205,8 @@ namespace Orders
 
         public void UpdateOrder(Order order)
         {
-            int idx=orders.FindIndex(o=>o.Id==order.Id);
-            if (idx<0)
+            int idx = orders.FindIndex(o => o.Id == order.Id);
+            if (idx < 0)
             {
                 throw new ApplicationException($"The order does not exist: {order}");
             }
@@ -247,107 +228,4 @@ namespace Orders
 
     }
 
-    class Program
-    {
-
-        static void Main(string[] args)
-        {
-            Customer Linda = new Customer("Linda", "Chongqing");
-            Customer Bob = new Customer("Bob", "Shanghai");
-            Customer Song = new Customer("Song", "Guangzhou");
-
-            Product book = new Product("Book", 20);
-            Product pen = new Product("Pen", 5);
-            Product p3 = new Product("Phone", 1000);
-
-            Order o1 = new Order(1, Linda);
-            o1.AddDetails(new OrderDetails(book, 2));
-            o1.AddDetails(new OrderDetails(pen, 10));
-
-            Order o2 = new Order(2, Bob);
-            o2.AddDetails(new OrderDetails(pen, 20));
-            o2.AddDetails(new OrderDetails(p3, 1));
-
-            Order o3 = new Order(3, Song);
-            o3.AddDetails(new OrderDetails(book, 5));
-            o3.AddDetails(new OrderDetails(p3, 2));
-
-            OrderService os = new OrderService();
-
-            os.AddOrder(o1);
-            os.AddOrder(o2);
-            os.AddOrder(o3);
-
-            Console.WriteLine("All orders:");
-            foreach (var order in os.QueryOrders(o => true))
-            {
-                Console.WriteLine(order);
-            }
-
-            Console.WriteLine("Query by order id:");
-            var result1 = os.QueryOrders(o => o.Id == 2);
-            foreach (var order in result1)
-            {
-                Console.WriteLine(order);
-            }
-
-            Console.WriteLine("Query by product name:");
-            var result2 = os.QueryOrders(o => o.Exists(d => d.Product.Name == "Book"));
-            foreach (var order in result2)
-            {
-                Console.WriteLine(order);
-            }
-
-            Console.WriteLine("Query by customer:");
-            var result3 = os.QueryOrders(o => o.Customer.Name == "Charlie");
-            foreach (var order in result3)
-            {
-                Console.WriteLine(order);
-            }
-
-            Console.WriteLine("Query by total amount:");
-            var result4 = os.QueryOrders(o => o.TotalAmount > 1000);
-            foreach (var order in result4)
-            {
-                Console.WriteLine(order);
-            }
-
-            Console.WriteLine("Delete an order:");
-            try
-            {
-                os.DeleteOrder(new Order(4, Linda));
-                os.DeleteOrder(o3);
-                foreach (var order in os.QueryOrders(o => true))
-                {
-                    Console.WriteLine(order);
-                }
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e.Message);
-            }
-
-            Console.WriteLine("Update an order:");
-            try
-            {
-                o2.Customer = new Customer("David", "Nanjing");
-                os.UpdateOrder(o2);
-                foreach (var order in os.QueryOrders(o => true))
-                {
-                    Console.WriteLine(order);
-                }
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e.Message);
-            }
-
-            Console.WriteLine("Sort orders:");
-            os.SortOrders((o1, o2) => o2.TotalAmount.CompareTo(o1.TotalAmount)); 
-            foreach (var order in os.QueryOrders(o => true))
-            {
-                Console.WriteLine(order);
-            }
-        }
-    }
 }

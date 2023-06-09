@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace OrderForm_HW6_part.Properties {
+namespace Orders.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
