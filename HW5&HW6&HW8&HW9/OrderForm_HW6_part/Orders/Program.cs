@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
 
 namespace Orders
 {
@@ -10,18 +11,52 @@ namespace Orders
     {
         public int Id { get; set; }
         public Customer Customer { get; set; }
-        private readonly List<OrderDetails> Details = new List<OrderDetails>();
-        //public List<OrderDetails> Details => details;
         public DateTime CreateTime { get; set; }
 
+        public List<OrderDetails> detail;
+
+        public List<OrderDetails> Details
+        {
+            get { return detail; }
+        }
+        public Order(int id, Customer customer, List<OrderDetails> items)
+        {
+            this.Id = id;
+            this.Customer = customer;
+            this.CreateTime = DateTime.Now;
+            this.detail = (items == null) ? new List<OrderDetails>() : items;
+        }
+
+        public void RemoveDetail(OrderDetails detail)
+        {
+            this.detail.Remove(detail);
+        }
         public bool Exists(Predicate<OrderDetails> match)
         {
-            return Details.Exists(match);
+            return detail.Exists(match);
+        }
+        public void AddItem(OrderDetails item)
+        {
+            if (detail.Contains(item))
+            {
+                throw new InvalidOperationException("Item already exists in order.");
+            }
+            detail.Add(item);
+        }
+        public Order Clone()
+        {
+            return new Order
+            {
+                // copy all properties
+                Id = this.Id,
+                Customer = this.Customer,
+                detail = this.detail.Select(d => d.Clone()).ToList()
+            };
         }
 
         public double TotalAmount
         {
-            get => Details.Sum(d => d.Amount);//如果写字段需要保持冗余数据一致性，容易出现错误
+            get => detail.Sum(d => d.Amount);//如果写字段需要保持冗余数据一致性，容易出现错误
         }
         public Order()
         {
@@ -31,23 +66,19 @@ namespace Orders
         {
             Id = id;
             Customer = customer;
-            Details = new List<OrderDetails>();
+            detail = new List<OrderDetails>();
             CreateTime = DateTime.Now;
         }
 
         public void AddDetails(OrderDetails detail)
         {
-            if (Details.Contains(detail))
+            if (this.detail.Contains(detail))
             {
                 throw new ApplicationException($"The detail has been contained: {detail}");
             }
-            Details.Add(detail);
+            this.detail.Add(detail);
         }
 
-        public void RemoveDetails(OrderDetails detail)
-        {
-            Details.Remove(detail);
-        }
 
         public override bool Equals(object obj)
         {
@@ -60,8 +91,8 @@ namespace Orders
         {
             StringBuilder sb = new StringBuilder();
             sb.Append($"Order Id: {Id}, Customer: {Customer}\n");
-            sb.Append("Order Details:\n");
-            foreach (var detail in Details)
+            sb.Append("Order detail:\n");
+            foreach (var detail in detail)
             {
                 sb.Append(detail + "\n");
             }
@@ -101,25 +132,44 @@ namespace Orders
     {
         public Product Product { get; set; }
         public int Quantity { get; set; }
+        public int Index { get; set; }
+        public OrderDetails() { }
+        public string Name { get; set; }
         public double Amount
         {
             get
             {
                 return Product.Price * Quantity;
             }
+            set { Product.Price = value * Quantity;}
         }
 
-        public OrderDetails(Product product, int quantity)
+
+        public override bool Equals(object obj)
+        {
+            var item = obj as OrderDetails;
+            return item != null &&
+                   Name == item.Name;
+        }
+
+        public OrderDetails Clone()
+        {
+            return new OrderDetails(this.Product, this.Quantity,this.Index)
+            {
+                // copy all properties
+                Index = this.Index,
+                Product = this.Product,
+                Quantity = this.Quantity,
+                Amount = this.Amount
+            };
+        }
+        public OrderDetails(Product product, int quantity,int Index)
         {
             this.Product = product;
             this.Quantity = quantity;
+            this.Index = Index;
         }
 
-        public override bool Equals(object obj)//需要避免空指针
-        {
-            return obj is OrderDetails details &&
-                   Product.Equals(details.Product);
-        }
 
 
         public override string ToString()
@@ -156,11 +206,12 @@ namespace Orders
     {
         public string Name { get; set; }
         public double Price { get; set; }
-
-        public Product(string name, double price)
+        public int Index { get; set; }
+        public Product(string name, double price, int index)
         {
             Name = name;
             Price = price;//需要校验
+            Index = index;
         }
 
         public override bool Equals(object obj)
@@ -183,6 +234,14 @@ namespace Orders
         {
             orders = new List<Order>();
         }
+        public List<Order> GetOrders()
+        {
+            return orders;
+        }
+        public Order FindOrder(int id)
+        {
+            return orders.Where(o => o.Id == id).FirstOrDefault();
+        }
 
         public void AddOrder(Order order)
         {
@@ -193,9 +252,10 @@ namespace Orders
             orders.Add(order);
         }
 
-        public void DeleteOrder(Order order)
+
+        public void DeleteOrder(int id)
         {
-            int idx = orders.FindIndex(o => o.Id == order.Id);
+            int idx = orders.FindIndex(o => o.Id == id);
             if (idx >= 0)
             {
                 orders.RemoveAt(idx);

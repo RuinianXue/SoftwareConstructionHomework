@@ -33,9 +33,9 @@
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
             this.InputGoodName = new System.Windows.Forms.TextBox();
             this.InputGoodNum = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.bindProduct = new System.Windows.Forms.BindingSource(this.components);
             this.bindDetail = new System.Windows.Forms.BindingSource(this.components);
             this.tableLayoutPanel1.SuspendLayout();
@@ -99,17 +99,6 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "goods";
             // 
-            // button1
-            // 
-            this.button1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button1.Location = new System.Drawing.Point(313, 313);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(174, 49);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "OK";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
             // InputGoodName
             // 
             this.InputGoodName.Anchor = System.Windows.Forms.AnchorStyles.None;
@@ -125,6 +114,25 @@
             this.InputGoodNum.Name = "InputGoodNum";
             this.InputGoodNum.Size = new System.Drawing.Size(277, 28);
             this.InputGoodNum.TabIndex = 3;
+            // 
+            // button1
+            // 
+            this.button1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button1.Location = new System.Drawing.Point(313, 313);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(174, 49);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "OK";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // bindProduct
+            // 
+            this.bindProduct.DataSource = typeof(Orders.Product);
+            // 
+            // bindDetail
+            // 
+            this.bindDetail.DataSource = typeof(Orders.OrderDetails);
             // 
             // DetailEditWindow
             // 

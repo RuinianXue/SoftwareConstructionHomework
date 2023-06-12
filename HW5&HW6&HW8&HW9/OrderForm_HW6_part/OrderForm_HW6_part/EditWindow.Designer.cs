@@ -44,15 +44,20 @@
             this.Goods = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.UnitPrice = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Amount = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.bindDetail = new System.Windows.Forms.BindingSource(this.components);
             this.bindOrder = new System.Windows.Forms.BindingSource(this.components);
             this.bindCustomer = new System.Windows.Forms.BindingSource(this.components);
-            this.bindDetail = new System.Windows.Forms.BindingSource(this.components);
+            this.productDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.quantityDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.indexDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.amountDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.panel1.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvItems)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bindDetail)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bindOrder)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bindCustomer)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.bindDetail)).BeginInit();
             this.SuspendLayout();
             // 
             // btnSave
@@ -69,6 +74,7 @@
             this.btnSave.TabIndex = 4;
             this.btnSave.Text = "Save";
             this.btnSave.UseVisualStyleBackColor = false;
+            this.btnSave.Click += new System.EventHandler(this.saveButton_Click);
             // 
             // btnAddItem
             // 
@@ -82,6 +88,7 @@
             this.btnAddItem.TabIndex = 5;
             this.btnAddItem.Text = "Add";
             this.btnAddItem.UseVisualStyleBackColor = true;
+            this.btnAddItem.Click += new System.EventHandler(this.addItemButton_Click);
             // 
             // btnEditItem
             // 
@@ -95,6 +102,7 @@
             this.btnEditItem.TabIndex = 6;
             this.btnEditItem.Text = "Modify";
             this.btnEditItem.UseVisualStyleBackColor = true;
+            this.btnEditItem.Click += new System.EventHandler(this.editItemButton_Click);
             // 
             // btnDeleteItem
             // 
@@ -108,6 +116,7 @@
             this.btnDeleteItem.TabIndex = 7;
             this.btnDeleteItem.Text = "Delete";
             this.btnDeleteItem.UseVisualStyleBackColor = true;
+            this.btnDeleteItem.Click += new System.EventHandler(this.deleteButton_Click);
             // 
             // panel1
             // 
@@ -144,6 +153,7 @@
             // cbxCustomer
             // 
             this.cbxCustomer.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.cbxCustomer.DataSource = this.bindCustomer;
             this.cbxCustomer.DisplayMember = "Name";
             this.cbxCustomer.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbxCustomer.FlatStyle = System.Windows.Forms.FlatStyle.System;
@@ -192,12 +202,19 @@
             // dgvItems
             // 
             this.dgvItems.AllowUserToAddRows = false;
+            this.dgvItems.AutoGenerateColumns = false;
             this.dgvItems.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvItems.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Index,
             this.Goods,
             this.UnitPrice,
-            this.Amount});
+            this.Amount,
+            this.productDataGridViewTextBoxColumn,
+            this.quantityDataGridViewTextBoxColumn,
+            this.indexDataGridViewTextBoxColumn,
+            this.nameDataGridViewTextBoxColumn,
+            this.amountDataGridViewTextBoxColumn});
+            this.dgvItems.DataSource = this.bindDetail;
             this.dgvItems.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgvItems.Location = new System.Drawing.Point(0, 151);
             this.dgvItems.Margin = new System.Windows.Forms.Padding(4);
@@ -208,6 +225,7 @@
             this.dgvItems.Size = new System.Drawing.Size(1019, 437);
             this.dgvItems.TabIndex = 9;
             this.dgvItems.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvItems_CellContentClick);
+            this.dgvItems.DoubleClick += new System.EventHandler(this.dgvItems_DoubleClick);
             // 
             // Index
             // 
@@ -245,6 +263,64 @@
             this.Amount.ReadOnly = true;
             this.Amount.Width = 150;
             // 
+            // bindDetail
+            // 
+            this.bindDetail.DataMember = "Details";
+            this.bindDetail.DataSource = this.bindOrder;
+            // 
+            // bindOrder
+            // 
+            this.bindOrder.DataSource = typeof(Orders.Order);
+            // 
+            // bindCustomer
+            // 
+            this.bindCustomer.DataSource = typeof(Orders.Customer);
+            // 
+            // productDataGridViewTextBoxColumn
+            // 
+            this.productDataGridViewTextBoxColumn.DataPropertyName = "Product";
+            this.productDataGridViewTextBoxColumn.HeaderText = "Product";
+            this.productDataGridViewTextBoxColumn.MinimumWidth = 8;
+            this.productDataGridViewTextBoxColumn.Name = "productDataGridViewTextBoxColumn";
+            this.productDataGridViewTextBoxColumn.ReadOnly = true;
+            this.productDataGridViewTextBoxColumn.Width = 150;
+            // 
+            // quantityDataGridViewTextBoxColumn
+            // 
+            this.quantityDataGridViewTextBoxColumn.DataPropertyName = "Quantity";
+            this.quantityDataGridViewTextBoxColumn.HeaderText = "Quantity";
+            this.quantityDataGridViewTextBoxColumn.MinimumWidth = 8;
+            this.quantityDataGridViewTextBoxColumn.Name = "quantityDataGridViewTextBoxColumn";
+            this.quantityDataGridViewTextBoxColumn.ReadOnly = true;
+            this.quantityDataGridViewTextBoxColumn.Width = 150;
+            // 
+            // indexDataGridViewTextBoxColumn
+            // 
+            this.indexDataGridViewTextBoxColumn.DataPropertyName = "Index";
+            this.indexDataGridViewTextBoxColumn.HeaderText = "Index";
+            this.indexDataGridViewTextBoxColumn.MinimumWidth = 8;
+            this.indexDataGridViewTextBoxColumn.Name = "indexDataGridViewTextBoxColumn";
+            this.indexDataGridViewTextBoxColumn.ReadOnly = true;
+            this.indexDataGridViewTextBoxColumn.Width = 150;
+            // 
+            // nameDataGridViewTextBoxColumn
+            // 
+            this.nameDataGridViewTextBoxColumn.DataPropertyName = "Name";
+            this.nameDataGridViewTextBoxColumn.HeaderText = "Name";
+            this.nameDataGridViewTextBoxColumn.MinimumWidth = 8;
+            this.nameDataGridViewTextBoxColumn.Name = "nameDataGridViewTextBoxColumn";
+            this.nameDataGridViewTextBoxColumn.ReadOnly = true;
+            this.nameDataGridViewTextBoxColumn.Width = 150;
+            // 
+            // amountDataGridViewTextBoxColumn
+            // 
+            this.amountDataGridViewTextBoxColumn.DataPropertyName = "Amount";
+            this.amountDataGridViewTextBoxColumn.HeaderText = "Amount";
+            this.amountDataGridViewTextBoxColumn.MinimumWidth = 8;
+            this.amountDataGridViewTextBoxColumn.Name = "amountDataGridViewTextBoxColumn";
+            this.amountDataGridViewTextBoxColumn.ReadOnly = true;
+            this.amountDataGridViewTextBoxColumn.Width = 150;
+            // 
             // EditWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
@@ -259,9 +335,9 @@
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvItems)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bindDetail)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bindOrder)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bindCustomer)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.bindDetail)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -286,5 +362,10 @@
         private System.Windows.Forms.BindingSource bindOrder;
         private System.Windows.Forms.BindingSource bindCustomer;
         private System.Windows.Forms.BindingSource bindDetail;
+        private System.Windows.Forms.DataGridViewTextBoxColumn productDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn quantityDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn indexDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn nameDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn amountDataGridViewTextBoxColumn;
     }
 }

@@ -16,7 +16,7 @@ namespace OrderForm_HW6_part
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainWindow());
+            Application.Run(new ParentWindow());
         }
     }
 }

@@ -23,8 +23,8 @@ namespace OrderForm_HW6_part
         {
             this.Detail = newDetail;
             this.bindDetail.DataSource = newDetail;
-            bindProduct.Add(new Product("Pears", 10.0));
-            bindProduct.Add(new Product("Banana", 20.0));
+            bindProduct.Add(new Product("Pears", 10.0, 1));
+            bindProduct.Add(new Product("Banana", 20.0, 2));
         }
 
         private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
@@ -41,6 +41,7 @@ namespace OrderForm_HW6_part
         {
 
         }
+
 
     }
 }

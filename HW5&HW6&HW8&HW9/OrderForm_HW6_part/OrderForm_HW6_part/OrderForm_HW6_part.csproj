@@ -95,6 +95,11 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="Properties\DataSources\Orders.Customer.datasource" />
+    <None Include="Properties\DataSources\Orders.Order.datasource" />
+    <None Include="Properties\DataSources\Orders.OrderDetails.datasource" />
+    <None Include="Properties\DataSources\Orders.OrderService.datasource" />
+    <None Include="Properties\DataSources\Orders.Product.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
