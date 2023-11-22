@@ -27,6 +27,8 @@ namespace FinalCrawler
         {
             this.startUrl = startUrl;
             this.domain = GetDomain(startUrl);
+            //Console.WriteLine("!!!!Domain:");
+            //Console.WriteLine(domain);
             this.visitedUrls = new HashSet<string>();
             this.errorUrls = new HashSet<string>();
             MaxPage = 100;
@@ -54,7 +56,7 @@ namespace FinalCrawler
                 await CrawlAsync(url);
                 Console.WriteLine(url);
             }
-            //CrawlerStopped(this);
+            CrawlerStopped(this);
             Console.WriteLine("Crawling finished.");
             Console.WriteLine("Visited URLs:");
             foreach (string url in visitedUrls)
@@ -79,12 +81,22 @@ namespace FinalCrawler
                     string html = await DownloadHtmlAsync(url);
                     ParseHtml(html, url);
                     PageDownloaded(this, url, "success");
-                    Console.WriteLine("!!!!!!!!!!" + url + "!!!!!!!!");
+                    //Console.WriteLine("!!!!!!!!!!" + url + "!!!!!!!!");
+                    try
+                    {
+                        ParseHtmlPhoto(html, url);
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine("This is image error:");
+                        Console.WriteLine(ex);
+                    }
+
                 }
                 catch (Exception ex)
                 {
                     errorUrls.Add(url);
-                    PageDownloaded(this, url, "  Error:" + ex.Message);
+                    //PageDownloaded(this, url, "  Error:" + ex.Message);
                 }
             }
         }
@@ -106,6 +118,7 @@ namespace FinalCrawler
 
         private void ParseHtml(string html, string baseUrl)
         {
+            Console.WriteLine(html);
             string pattern = @"<\s*a\s+[^>]*href\s*=\s*[""']?([^'"" >]+?)[ '""][^>]*>";
             MatchCollection matches = Regex.Matches(html, pattern, RegexOptions.IgnoreCase);
             foreach (Match match in matches)
@@ -125,20 +138,40 @@ namespace FinalCrawler
         private void ParseHtmlPhoto(string html, string baseUrl)
         {
             string pattern = @"<img[^>]+?src\s*=\s*[""']?([^'"" >]+?)[ '""][^>]*>";
+            //string pattern2 = @"(?<==['""])(https?://\S+\.(?:jpg|png|jpeg))(?=['""])";
+            string pattern2 = @"(?<=['""])(https?://\S+\.(?:jpg|png|jpeg|webp))(?=['""])";
             MatchCollection matches = Regex.Matches(html, pattern, RegexOptions.IgnoreCase);
+            MatchCollection matches2 = Regex.Matches(html, pattern2, RegexOptions.IgnoreCase);
             foreach (Match match in matches)
             {
                 string imageUrl = match.Groups[1].Value;
+                //Console.WriteLine(baseUrl);
+                //Console.WriteLine(imageUrl);
                 if (IsRelativeUrl(imageUrl))
                 {
                     imageUrl = ConvertToAbsoluteUrl(imageUrl, baseUrl);
-                    DownloadImagesAsync(imageUrl);
+                    //Console.WriteLine(imageUrl);
                 }
+                Console.WriteLine(imageUrl);
+                DownloadImagesAsync(imageUrl);
             }
+            foreach (Match match2 in matches2)
+            {
+                //Console.WriteLine(1);
+                string imageUrl = match2.Groups[1].Value;
+                if (IsRelativeUrl(imageUrl))
+                {
+                    imageUrl = ConvertToAbsoluteUrl(imageUrl, baseUrl);
+                    //Console.WriteLine(imageUrl);
+                }
+                Console.WriteLine(imageUrl);
+                DownloadImagesAsync(imageUrl);
+            }
+
         }
         private void DownloadImagesAsync(string url)
         {
-            string localFolderPath = "./ImagesDownloaded/";
+            string localFolderPath = "../../ImagesDownloaded/";
             using (WebClient client = new WebClient())
             {
                 string fileName = Path.GetFileName(new Uri(url).LocalPath);
@@ -149,19 +182,23 @@ namespace FinalCrawler
         #endregion
         private bool IsRelativeUrl(string url)
         {
-            string pattern = @"^(?!www\.|(?:http|ftp)s?://|[A-Za-z]:\\|//).*[^/]$";
+            string pattern = @"^(?!www\.|(?:http|ftp)s?://|[A-Za-z]:\\).*[^/]$";
             return Regex.IsMatch(url, pattern);
         }
 
         private string ConvertToAbsoluteUrl(string url, string baseUrl)
         {
+            if (url.StartsWith("//"))
+            {
+                return "http:" + url;
+            }
             if (url.StartsWith("/"))
             {
                 return GetProtocol(baseUrl) + "://" + domain + url;
             }
             else if (url.StartsWith("./"))
             {
-                return GetProtocol(baseUrl) + "://" + domain + GetPath(baseUrl) + url.Substring(2);
+                return GetProtocol(baseUrl) + "://" + GetPath(baseUrl) + url.Substring(2);
             }
             else if (url.StartsWith("../"))
             {
@@ -175,11 +212,13 @@ namespace FinalCrawler
                         path = path.Substring(0, index);
                     }
                 }
-                return GetProtocol(baseUrl) + "://" + domain + path + "/" + url;
+                return GetProtocol(baseUrl) + "://"  + path + "/" + url;
             }
             else
             {
-                return baseUrl + "/" + url;
+                if (baseUrl.EndsWith("/"))
+                    return baseUrl + url;
+                else return baseUrl + '/' + url;
             }
         }
 

@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-Hans-CN" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>PRTS:如何帮助我们完善网站 - PRTS - 玩家共同构筑的明日方舟中文Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"a3fd7feccbb14b90365f83e9","wgCSPNonce":false,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"PRTS:如何帮助我们完善网站","wgTitle":"如何帮助我们完善网站","wgCurRevisionId":281772,"wgRevisionId":281772,"wgArticleId":7242,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgRelevantPageName":"PRTS:如何帮助我们完善网站","wgRelevantArticleId":7242,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgCargoDefaultQueryLimit":100,"wgCargoMapClusteringMinimum":80,"wgCargoMonthNames":["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgCargoMonthNamesShort":["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgCargoWeekDays":["星期日","星期一","星期二","星期三","星期四","星期五","星期六"],"wgCargoWeekDaysShort":["日","一","二","三","四","五","六"],"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"srfFilteredConfig":null,"wgVector2022PreviewPages":[],"wgULSAcceptLanguageList":["zh-cn","zh"],"wgULSCurrentAutonym":"中文（中国大陆）","wgULSPosition":"personal","wgULSisCompactLinksEnabled":true};RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","ext.uls.pt":"ready"};RLPAGEMODULES=["ext.smw.style","ext.smw.tooltips","smw.entityexaminer","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.copyUrl","ext.gadget.Filterable","ext.gadget.Carousel","ext.gadget.Popup","ext.gadget.Edittools","ext.gadget.HeimuToggle","ext.uls.compactlinks","ext.uls.interface"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/load.php?lang=zh-cn&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles%7Cext.srf.styles%7Cext.uls.pt%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<style>#mw-indicator-mw-helplink{display:none;}</style>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.39.4"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="viewport" content="width=1000"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.prts.wiki/w/PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99"/>
+<link rel="alternate" type="application/rdf+xml" title="PRTS:如何帮助我们完善网站" href="/index.php?title=%E7%89%B9%E6%AE%8A:%E5%AF%BC%E5%87%BARDF/PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99&amp;xmlmime=rdf"/>
+<link rel="icon" href="/public/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="PRTS (zh-cn)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//prts.wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+<script>this.globalThis ||(this.globalThis =this)</script>
+<script type="module">function e(e){var n;try{return null==(n=document.querySelector(e))?void 0:n.remove()}catch(t){console.log("[DisplayController] An error occurred while removing ".concat(e),t)}}function n(n){const t=document.createElement("style");if(t.className=n.styleClass,t.innerHTML='#p-personal,#pt-preferences,#p-prts-extra-links,.mp-support-us,.mp-more-info,.footer-places,.page-actions-menu,.penguin-widget,#ooui-penguin-mirror-option-container,#ooui-penguin-server-option-container,#ooui-penguin-stage-option-container,.minerva-user-notifications,.minerva-user-menu,a[data-event-name="tabs.talk"],.last-modified-bar,.page-特殊_创建账户,.page-特殊_用户登录,.page-PRTS_如何帮助我们完善网站,.page-PRTS_交流群组,.page-PRTS_收支一览,.page-PRTS_反馈与建议,.ns-2{display:none}\n',document.head.appendChild(t),navigator.userAgent.includes(n.userAgent)){"prts.wiki"===window.location.hostname&&window.location.replace(window.location.href.replace("prts.wiki","m.prts.wiki")),n.redirectBodyClasses.forEach((e=>{document.body.classList.contains(e)&&window.location.replace("https://m.prts.wiki")})),n.selectors.forEach((n=>{e(n)}));let t=document.querySelector("meta[name='viewport']");t||(t=document.createElement("meta"),t.setAttribute("name","viewport"),document.head.appendChild(t));let o=t.getAttribute("content");o||(o="initial-scale=1.0, user-scalable=no, minimum-scale=0.25, maximum-scale=5.0, width=device-width"),t.setAttribute("content",o.replaceAll("user-scalable=yes","user-scalable=no"))}else e(".".concat(n.styleClass))}n({userAgent:"SKLand",styleClass:"skland-hidden",selectors:["#p-personal","#pt-preferences","#p-prts-extra-links",".mp-support-us",".mp-more-info",".footer-places",".page-actions-menu",".penguin-widget","#ooui-penguin-mirror-option-container","#ooui-penguin-server-option-container","#ooui-penguin-stage-option-container",".minerva-user-notifications",".minerva-user-menu",'a[data-event-name="tabs.talk"]',".last-modified-bar",".flow-board-page"],redirectBodyClasses:["page-特殊_创建账户","page-特殊_用户登录","page-PRTS_如何帮助我们完善网站","page-PRTS_交流群组","page-PRTS_收支一览","page-PRTS_反馈与建议","ns-2","ns-talk"]}),fetch("https://static.prts.wiki/20230731ua/display_config_v2.json").then((e=>{if(!e.ok)throw new Error("[DisplayController] Received non-200 response");return e.json()})).then((e=>n(e))).catch((e=>console.error(e)));</script>
+<link rel="modulepreload" href="https://static.prts.wiki/widgets/release/sentry.db195511.js" as="script">
+<script type="module" src="https://static.prts.wiki/widgets/release/sentry.db195511.js"></script>
+<link rel="dns-prefetch" href="https://static.prts.wiki/">
+<link rel="manifest" href="/manifest.json">
+<link href="https://static.prts.wiki/mdi/7.2.96/css/materialdesignicons.min.css" type="text/css" rel="stylesheet" />
+<link href="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-3-y/font-awesome/5.15.4/css/all.min.css" type="text/css" rel="stylesheet" />
+<link href="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-3-y/font-awesome/5.15.4/css/v4-shims.min.css" type="text/css" rel="stylesheet" />
+<link href="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-3-y/animate.css/3.7.2/animate.min.css" type="text/css" rel="stylesheet" />
+<meta name="theme-color" content="#343434">
+<link rel="apple-touch-icon" href="/ioslogo.png">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script>if('serviceWorker'in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('/sw.js').then(function(registration){console.log('ServiceWorker registration successful with scope: ',registration.scope)}).catch(function(err){console.log('ServiceWorker registration failed: ',err)})})}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DEE6E93G5M"></script>
+<script>window.dataLayer =window.dataLayer ||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-DEE6E93G5M');var _hmt =_hmt ||[];(function() {var hm =document.createElement("script");hm.src ="https://hm.baidu.com/hm.js?e1369c7d981281aa581e68b669c5a75c";var s =document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s);})();</script>
+<style type="text/css">.skin-vector .mw-body{margin-left:11em !important;padding:1.25em 1.5em 1.5em 1.5em !important}.skin-vector #mw-panel{padding-left:0 !important;width:10.5em !important}.skin-vector #left-navigation,.skin-vector #content{margin-left:11em}div#MenuSidebar{margin-bottom:5rem;position:absolute;top:200px;width:100%}div#MenuSidebar a.external{background:none;padding-right:auto}div#MenuSidebar>:first-child{margin-top:0px;border-top:2px solid #f4c430}div#MenuSidebar>:first-child>:first-child{box-shadow:none}div#MenuSidebar>ul{list-style:none none;width:100%;margin:0px;background-color:rgba(20,20,20,0.6);border-top:2px solid #f4c430;border-bottom-right-radius:5px}div#MenuSidebar ul{position:relative;font-size:0.9rem}div#MenuSidebar>ul>li ul{display:block;opacity:0;pointer-events:none;visibility:hidden;transition:0.2s all ease-in-out;z-index:1;background-color:#373737;width:unset !important;white-space:nowrap}div#MenuSidebar>ul>li ul a,div#MenuSidebar>ul>li ul b{padding-right:18px}div#MenuSidebar>ul ul{list-style:none none;position:absolute;left:100%;width:100%;top:0px;margin:0px;z-index:1;background-color:#333;box-shadow:-1px 2px 10px 0px rgba(0,0,0,0.4),-1px -2px 10px 0px rgba(0,0,0,0.4)}div#MenuSidebar ul li:first-child{box-shadow:none}div#MenuSidebar>p{padding:8px 10px;margin:0px;cursor:default;color:#f4c430;font-weight:bold;margin-top:8px;background-color:rgba(30,30,30,0.6)}div#MenuSidebar>ul li:hover>ul{display:block;opacity:1;pointer-events:auto;visibility:visible}div#MenuSidebar li{position:relative;margin:0px;box-shadow:inset 0 1px rgba(244,196,48,0.5);transition:0.15s all ease-in;z-index:1}div#MenuSidebar li b,div#MenuSidebar li a{padding:5px 0px;padding-left:18px;display:block;width:auto;height:100%;font-weight:normal}div#MenuSidebar a{transition:all 0.15s ease-in;color:#eaeaea}div#MenuSidebar a:hover,div#MenuSidebar b:hover{color:black;background-color:#f4c430;text-decoration:none !important}div#MenuSidebar b{cursor:default}div#MenuSidebar li.child>a::after,div#MenuSidebar li.child>b::after{float:right;content:"\f0da";font-family:'Font Awesome 5 Free';font-weight:900;display:inherit;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:100%;font-size:1rem;padding-top:2%;margin-right:3px}div#MenuSidebar a.selflink{font-weight:bold;color:#f4c430;cursor:default}div#MenuSidebar a.selflink:hover{background-color:inherit;color:#f4c430}div#MenuSidebar>ul>li:last-child>a,div#MenuSidebar>ul>li:last-child>b{border-bottom-right-radius:5px}div#MenuSidebar a.selflink::before{content:"";display:block;position:absolute;left:0px;top:50%;transform:translateY(-50%);border-top:6px solid transparent;border-bottom:6px solid transparent;border-left:6px solid #f4c430}#MenuSidebar .copyUrl::after{content:"\f0c1";font-family:'Font Awesome 5 Free';font-weight:900;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1;font-size:70%;margin-left:.4em;color:var(--production);pointer-events:auto;cursor:pointer}</style>
+<link rel="preload" href="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-3-y/lazysizes/4.1.8/lazysizes.min.js" as="script"><script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-3-y/lazysizes/4.1.8/lazysizes.min.js" type="application/javascript"></script>
+<meta property="og:title" content="PRTS:如何帮助我们完善网站"/>
+<meta property="og:site_name" content="PRTS"/>
+<meta property="og:url" content="https://prts.wiki/w/PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99"/>
+<meta property="og:image" content="https://prts.wiki/images/ak.png"/>
+<meta property="article:modified_time" content="2023-10-12T16:32:37Z"/>
+<meta property="article:published_time" content="2023-10-12T16:32:37Z"/>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","name":"PRTS:\u5982\u4f55\u5e2e\u52a9\u6211\u4eec\u5b8c\u5584\u7f51\u7ad9 - PRTS - \u73a9\u5bb6\u5171\u540c\u6784\u7b51\u7684\u660e\u65e5\u65b9\u821f\u4e2d\u6587Wiki","headline":"PRTS:\u5982\u4f55\u5e2e\u52a9\u6211\u4eec\u5b8c\u5584\u7f51\u7ad9 - PRTS - \u73a9\u5bb6\u5171\u540c\u6784\u7b51\u7684\u660e\u65e5\u65b9\u821f\u4e2d\u6587Wiki","mainEntityOfPage":"<span class=\"mw-page-title-namespace\">PRTS<\/span><span class=\"mw-page-title-separator\">:<\/span><span class=\"mw-page-title-main\">\u5982\u4f55\u5e2e\u52a9\u6211\u4eec\u5b8c\u5584\u7f51\u7ad9<\/span>","identifier":"https:\/\/prts.wiki\/w\/PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99","url":"https:\/\/prts.wiki\/w\/PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99","dateModified":"2023-10-12T16:32:37Z","datePublished":"2023-10-12T16:32:37Z","image":{"@type":"ImageObject","url":"https:\/\/prts.wiki\/images\/ak.png"},"author":{"@type":"Organization","name":"PRTS","url":"\/\/prts.wiki","logo":{"@type":"ImageObject","url":"https:\/\/prts.wiki\/images\/ak.png","caption":"PRTS"}},"publisher":{"@type":"Organization","name":"PRTS","url":"\/\/prts.wiki","logo":{"@type":"ImageObject","url":"https:\/\/prts.wiki\/images\/ak.png","caption":"PRTS"}},"potentialAction":{"@type":"SearchAction","target":"https:\/\/prts.wiki\/index.php?title=%E7%89%B9%E6%AE%8A:Search&search={search_term}","query-input":"required name=search_term"}}</script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-PRTS_如何帮助我们完善网站 rootpage-PRTS_如何帮助我们完善网站 skin-vector action-view skin-vector-legacy vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-disabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-disabled vector-feature-visual-enhancement-next-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+<a id="top"></a>
+<div id="siteNotice"><div id="localNotice"><div class="sitenotice" lang="zh-Hans-CN" dir="ltr"></div></div></div>
+<div class="mw-indicators">
+<div id="mw-indicator-smw-entity-examiner" class="mw-indicator"><div class="smw-entity-examiner smw-indicator-vertical-bar-loader" data-subject="如何帮助我们完善网站#4##" data-dir="ltr" data-uselang="" title="在背景運行審查"></div></div>
+</div>
+<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-namespace">PRTS</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">如何帮助我们完善网站</span></h1>
+<div id="bodyContent" class="vector-body">
+<div id="siteSub" class="noprint">来自PRTS</div>
+<div id="contentSub"></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">跳到导航</a>
+<a class="mw-jump-link" href="#searchInput">跳到搜索</a>
+<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="zh-Hans-CN" dir="ltr"><div class="mw-parser-output"><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="zh-Hans-CN" dir="ltr"><h2 id="mw-toc-heading">目录</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#编辑提示"><span class="tocnumber">1</span> <span class="toctext">编辑提示</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#版权相关"><span class="tocnumber">2</span> <span class="toctext">版权相关</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#页面编辑"><span class="tocnumber">3</span> <span class="toctext">页面编辑</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#注意事项"><span class="tocnumber">3.1</span> <span class="toctext">注意事项</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#页面新建/删除/重命名"><span class="tocnumber">3.2</span> <span class="toctext">页面新建/删除/重命名</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#页面的分类"><span class="tocnumber">3.3</span> <span class="toctext">页面的分类</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#文本编辑"><span class="tocnumber">4</span> <span class="toctext">文本编辑</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#图片及附件管理规范"><span class="tocnumber">5</span> <span class="toctext">图片及附件管理规范</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#上传规范"><span class="tocnumber">5.1</span> <span class="toctext">上传规范</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#资助我们改善访问质量"><span class="tocnumber">6</span> <span class="toctext">资助我们改善访问质量</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#广告"><span class="tocnumber">6.1</span> <span class="toctext">广告</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#B站充电计划"><span class="tocnumber">6.2</span> <span class="toctext">B站充电计划</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#直接的经济资助"><span class="tocnumber">6.3</span> <span class="toctext">直接的经济资助</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#其他"><span class="tocnumber">6.4</span> <span class="toctext">其他</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#赞助者公示"><span class="tocnumber">6.5</span> <span class="toctext">赞助者公示</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#注明"><span class="tocnumber">6.6</span> <span class="toctext">注明</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2><span id=".E7.BC.96.E8.BE.91.E6.8F.90.E7.A4.BA"></span><span class="mw-headline" id="编辑提示">编辑提示</span></h2>
+<div class="nomobile cbox-autonarrow" style="margin-bottom:12px; margin-top:12px;display:flex; flex-direction: row; flex-wrap: nowrap; background: #F9FFEA; width:825px; max-width:100%; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);">
+<div style="display:flex; padding:10px 10px 10px 10px; width:40px; min-width:40px; max-width:40px; justify-content: center; background-color:#B9E66B; color:#84B63C; box-sizing:border-box;"><span class="mdi mdi-arrow-top-right-thick" style="font-size:24px;color:;"></span></div>
+<div style="display:block; padding:12px 12px 12px 12px; flex-grow:1; -webkit-box-flex:1; box-sizing:border-box;">如需了解<b>编辑规范</b>，您也可以查阅<a href="/w/PRTS:%E7%BC%96%E8%BE%91%E8%A7%84%E8%8C%83" title="PRTS:编辑规范">PRTS:编辑规范</a>页面。</div>
+</div>
+<div class="nodesktop" style="margin-bottom:0.5rem;margin-top:0.5rem; display:flex; flex-direction: column; background: #F9FFEA;">
+<div style="display:block; padding:0.5rem 1rem 0.5rem 1rem; background-color:#B9E66B; color:#84B63C; box-sizing:border-box;"><span class="mdi mdi-arrow-top-right-thick" style="font-size:1em;color:;"></span></div>
+<div style="display:block; padding:0.5rem 1rem 0.5rem 1rem; flex-grow:1; -webkit-box-flex:1; -webkit-box-pack:center; justify-content:center; box-sizing:border-box;">如需了解<b>编辑规范</b>，您也可以查阅<a href="/w/PRTS:%E7%BC%96%E8%BE%91%E8%A7%84%E8%8C%83" title="PRTS:编辑规范">PRTS:编辑规范</a>页面。</div>
+</div>
+<ul><li>为了减少非必要的重复劳动，提高PRTS的整体素质，烦请各位编辑在开始编辑前先阅读本篇编辑指南的内容。</li>
+<li>如需一次编辑大量数据，可先将文字以及代码复制到一款文字编辑器当中（例如记事本、Word、WPS，推荐使用VSCode），按照维基的基础格式进行编辑。随后再复制粘贴至编辑页面中的文本区。</li>
+<li>请养成每次保存页面之前都先显示预览的好习惯。若您发现预览并没显示出您想要表达的内容或演示效果，请检查编辑界面文本框中的代码并更正。</li>
+<li>编辑完成后，请在编辑摘要框中简明扼要地记下您这次编辑的目的、修改的内容等。此项虽并不强制要求，但仅需几秒钟，即能大大节省日后校对的时间。</li>
+<li>若想练习编辑，请移步<a href="/w/PRTS:%E7%BB%83%E4%B9%A0%E6%9D%A1%E7%9B%AE" title="PRTS:练习条目">PRTS:练习条目</a>。但是请您注意，您在<a href="/w/PRTS:%E7%BB%83%E4%B9%A0%E6%9D%A1%E7%9B%AE" title="PRTS:练习条目">PRTS:练习条目</a>所编辑的内容可能会被删除。<br />如果您认为您在<a href="/w/PRTS:%E7%BB%83%E4%B9%A0%E6%9D%A1%E7%9B%AE" title="PRTS:练习条目">PRTS:练习条目</a>所编辑的内容有保留的必要，请将其复制至您的用户页下或相关的子页面。</li>
+<li><big><b>常用编辑代码请参阅帮助：<a href="/w/PRTS:%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81" title="PRTS:常用代码">PRTS:常用代码</a></b></big></li>
+<li>每个页面的讨论页为编辑该页面的讨论地点，请不要随意创建或<font color="red"><b>发表与编辑无关</b></font>的言论。<br />也不要在主页面及用户页创建<font color="red"><b>DIY相关的页面及内容</b></font><b>。<br />否则视情节轻重可能会被</b>删除相关内容<b>甚至进行<font color="red"></font></b><font color="red">封禁<b></b></font><b>处理。</b></li>
+<li>从其他Wiki导入或移植模板时<b>请适当调整以使其适用于PRTS</b>。例如更改Logo、删除冗余分类和红色链接等。参见<a target="_blank" rel="noreferrer noopener" class="external text" href="https://www.mediawiki.org/wiki/Help:Templates#Copying_from_one_wiki_to_another">MediaWiki中的相关内容</a>。</li>
+<li>此页面会包括各种常见问题的处理方式。</li></ul>
+<h2><span id=".E7.89.88.E6.9D.83.E7.9B.B8.E5.85.B3"></span><span class="mw-headline" id="版权相关">版权相关</span></h2>
+<p>PRTS的文字内容有<a href="/w/PRTS:%E7%89%88%E6%9D%83" title="PRTS:版权">版权</a>，但您只要遵守我们的版权许可协议条款，就可以使用。协议简述如下：
+</p>
+<ol><li>除了引述文字之外，所有PRTS的文字都以<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享（简称BY-NC-SA）</a>条款下发布。只要衍生作品同样以CC-BY-NC-SA发布，PRTS文字可以任意使用。简单来说，您必须注明作者、并允许其他人自由地复制您的作品。（这是简述，以许可证英文原文为准）</li>
+<li>如果您不愿意、或者不能以CC-BY-NC-SA发布作品，请不要编辑页面。</li>
+<li>如需引用他人资源时，请署名出处。</li></ol>
+<h2><span id=".E9.A1.B5.E9.9D.A2.E7.BC.96.E8.BE.91"></span><span class="mw-headline" id="页面编辑">页面编辑</span></h2>
+<h3><span id=".E6.B3.A8.E6.84.8F.E4.BA.8B.E9.A1.B9"></span><span class="mw-headline" id="注意事项">注意事项</span></h3>
+<ul><li>请不要在页面内添加虚假内容（比如DIY的相关内容），否则管理员有权回退相关操作并实行封禁处理</li>
+<li>干员数据、敌人数据、关卡数据等都有专门的负责人负责录入，请不要提前建立或者是随意修改相关内容，如果感觉可能数据有误，请在游戏中确认如此后向<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://ak.hypergryph.com/index">游戏官方</a>反馈，如游戏中作出修正后，相关负责人会进行数据更新。</li>
+<li>部分其他分类/名字空间下的页面有相关的编辑注意事项，编辑前请前去相关提示页面查看。</li></ul>
+<h3><span id=".E9.A1.B5.E9.9D.A2.E6.96.B0.E5.BB.BA.2F.E5.88.A0.E9.99.A4.2F.E9.87.8D.E5.91.BD.E5.90.8D"></span><span class="mw-headline" id="页面新建/删除/重命名">页面新建/删除/重命名</span></h3>
+<ul><li>任何用户皆允许根据需求新建页面。在新建页面或页面之前，请善用搜索功能并确认你建立的页面对其他访问网站的用户是有所帮助的，对于相似或相关内容请勿过多地新建页面。</li>
+<li>请不要在主空间建立个人页面，个人用页面请在<b>用户</b>空间建立（页面头有<b>用户:</b>前缀的页面）
+<ul><li>建立个人子页面请在前往你的<b>用户页面</b>后，在浏览器的标题栏后输入：/&lt;子页面名称&gt; 前往后按照创建页面的步骤创建即可</li></ul></li>
+<li>对一个经常被访问的页面而言，任何删除以及重命名都将是一个重大与唐突的更改；请在行动前先确定您了解其所可能带来的后果。</li>
+<li>页面重命名时请选择“更多”——“移动”方式移动到新页面。切勿使用<b>新建删除</b>的方式。</li>
+<li>移动时请根据页面情况，确认是否保留重定向。</li>
+<li>页面移动或删除时务必确认其他页面是否有链接有该页面！如有请同时对其他页面中的链接做出修正，如自己无法改动，请告知相关编辑人员。</li>
+<li>严禁还未确认是否有其他链接存在时盲目移动或删除页面。如果关联页面过多，请务必告知管理员制定移动或删除方式和跟踪以防遗漏。</li></ul>
+<h3><span id=".E9.A1.B5.E9.9D.A2.E7.9A.84.E5.88.86.E7.B1.BB"></span><span class="mw-headline" id="页面的分类">页面的分类</span></h3>
+<ul><li>为方便PRTS的页面管理，新建页面前请先进行合理的归档与分类。</li></ul>
+<h2><span id=".E6.96.87.E6.9C.AC.E7.BC.96.E8.BE.91"></span><span class="mw-headline" id="文本编辑">文本编辑</span></h2>
+<ul><li>推荐使用简体中文编写条目。</li>
+<li>并不禁止使用繁体中文、日文、或其他语言。</li>
+<li>但新建条目的命名，请务必使用简体中文。</li>
+<li>页面文本请优先采用游戏内文本，尚不存在翻译的干员可搬运原文，亦可自己尝试翻译，尝试翻译者请标注暂译。</li></ul>
+<h2><span id=".E5.9B.BE.E7.89.87.E5.8F.8A.E9.99.84.E4.BB.B6.E7.AE.A1.E7.90.86.E8.A7.84.E8.8C.83"></span><span class="mw-headline" id="图片及附件管理规范">图片及附件管理规范</span></h2>
+<h3><span id=".E4.B8.8A.E4.BC.A0.E8.A7.84.E8.8C.83"></span><span class="mw-headline" id="上传规范">上传规范</span></h3>
+<ul><li>请务必正确完整填写图片及文件备注中的分类信息。</li>
+<li>禁止上传与国家法律法规相违背的文件，包括但不仅限于政治敏感、封建迷信、暴力、色情等。<br /><b>如有发现将即刻删除相关内容并视情节轻重给予不少于1个月的<font color="red">封禁</font>处理</b>。</li>
+<li>本站不提供线上文件保存服务，我们保留删除任何没有意义或不被使用的文件的权利。</li></ul>
+<p><big>感谢您的遵守与理解。</big>
+</p>
+<h2><span id=".E8.B5.84.E5.8A.A9.E6.88.91.E4.BB.AC.E6.94.B9.E5.96.84.E8.AE.BF.E9.97.AE.E8.B4.A8.E9.87.8F"></span><span class="mw-headline" id="资助我们改善访问质量">资助我们改善访问质量</span></h2>
+<p><b>PRTS虽然作为<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://fgo.wiki/w/首页">Mooncell</a>子项目的公益wiki，以个人自愿编辑运行。</b>
+</p><p><b>但服务器、域名、CDN等内容都需要费用来维持，目前仍属于<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://fgo.wiki/w/首页">Mooncell</a>以及子项目PRTS的运维人员<span style="color:#FF0000;">自费支付开销的状况</span>。</b>
+<b>如果您愿意通过各种方式对我们伸出援手，我们将会十分感谢。</b>
+</p>
+<h3><span id=".E5.B9.BF.E5.91.8A"></span><span class="mw-headline" id="广告">广告</span></h3>
+<div class="nomobile cbox-autonarrow" style="margin-bottom:12px; margin-top:12px;display:flex; flex-direction: row; flex-wrap: nowrap; background: #F9FFEA; width:825px; max-width:100%; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);">
+<div style="display:flex; padding:10px 10px 10px 10px; width:40px; min-width:40px; max-width:40px; justify-content: center; background-color:#B9E66B; color:#84B63C; box-sizing:border-box;"><span class="mdi mdi-arrow-top-right-thick" style="font-size:24px;color:;"></span></div>
+<div style="display:block; padding:12px 12px 12px 12px; flex-grow:1; -webkit-box-flex:1; box-sizing:border-box;">如需了解<b>本站广告相关信息</b>，您也可以查阅<a href="/index.php?title=PRTS:%E5%B9%BF%E5%91%8A&amp;action=edit&amp;redlink=1" class="new" title="PRTS:广告（页面不存在）">PRTS:广告</a>页面。</div>
+</div>
+<div class="nodesktop" style="margin-bottom:0.5rem;margin-top:0.5rem; display:flex; flex-direction: column; background: #F9FFEA;">
+<div style="display:block; padding:0.5rem 1rem 0.5rem 1rem; background-color:#B9E66B; color:#84B63C; box-sizing:border-box;"><span class="mdi mdi-arrow-top-right-thick" style="font-size:1em;color:;"></span></div>
+<div style="display:block; padding:0.5rem 1rem 0.5rem 1rem; flex-grow:1; -webkit-box-flex:1; -webkit-box-pack:center; justify-content:center; box-sizing:border-box;">如需了解<b>本站广告相关信息</b>，您也可以查阅<a href="/index.php?title=PRTS:%E5%B9%BF%E5%91%8A&amp;action=edit&amp;redlink=1" class="new" title="PRTS:广告（页面不存在）">PRTS:广告</a>页面。</div>
+</div>
+<h3><span id="B.E7.AB.99.E5.85.85.E7.94.B5.E8.AE.A1.E5.88.92"></span><span class="mw-headline" id="B站充电计划">B站充电计划</span></h3>
+<p><b><big><big><big><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://space.bilibili.com/3176666/">传送门</a></big></big></big></b>
+</p><p><b>您可以点击上方B站传送门，点击右上侧充电按钮为网站账号进行充电，充电所得将全额用于<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://fgo.wiki/w/首页">Mooncell</a>和PRTS这两个网站的开销。</b>
+</p><p><br />
+<a href="https://space.bilibili.com/3176666/" target="_blank" rel="nofollow noreferrer noopener"><img alt="充电.gif" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" decoding="async" width="338" height="74" data-src="/images/2/2e/%E5%85%85%E7%94%B5.gif" class="lazyload" /></a>
+</p><p><span style="color:red;">※自2019年9月10日起，B站年度大会员专享每月5B币券变更为手动领取，每月1日起可领，领取后当月有效。（部分赠送时长不可领）领取位置：<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://account.bilibili.com/account/big/myPackage">我的大会员-卡券包</a></span>
+</p><p><br />
+手机端App可按照以下路径领取：侧边栏-&gt;我的大会员-&gt;卡券包
+</p><p>每月有赠送的5B币可以进行<span style="color:#FF0000;">免费</span>进行充电，您可以把手头上的免费资源以充电的形式支持本站。
+</p><p><b>但是并不推荐使用<span style="color:#FF0000;">付费</span>形式来进行充电，因为充电结算的金额按B站的规则将会被收取30%手续费用。</b>
+</p><p>B站年费大会员每月10号可获得<span style="color:#FF0000;">5B币券</span>，1B币券=10电池，单次充电最低为20电池。
+</p>
+<h3><span id=".E7.9B.B4.E6.8E.A5.E7.9A.84.E7.BB.8F.E6.B5.8E.E8.B5.84.E5.8A.A9"></span><span class="mw-headline" id="直接的经济资助">直接的经济资助</span></h3>
+<p><b>您可以通过微信或支付宝、爱发电扫码打赏的形式对<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://fgo.wiki/w/首页">Mooncell</a>和PRTS进行实质的经济资助。</b>
+</p><p>微信扫描：
+</p><p><a href="/w/%E6%96%87%E4%BB%B6:%E6%89%93%E8%B5%8F%E7%A0%81.png" class="image"><img alt="打赏码.png" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" decoding="async" width="300" height="300" data-src="/images/thumb/1/10/%E6%89%93%E8%B5%8F%E7%A0%81.png/300px-%E6%89%93%E8%B5%8F%E7%A0%81.png" class="lazyload" data-srcset="/images/thumb/1/10/%E6%89%93%E8%B5%8F%E7%A0%81.png/450px-%E6%89%93%E8%B5%8F%E7%A0%81.png 1.5x, /images/thumb/1/10/%E6%89%93%E8%B5%8F%E7%A0%81.png/600px-%E6%89%93%E8%B5%8F%E7%A0%81.png 2x" /></a>
+</p><p><span style="color:#FF0000;"><b>因微信相关功能缺失,暂无法导出留言,手工录入工作量过大,自2023年起不再录入微信打赏的留言,如您需留言请优先使用支付宝 </b></span>
+</p><p>支付宝扫描：
+</p><p><a href="/w/%E6%96%87%E4%BB%B6:%E6%94%AF%E4%BB%98%E5%AE%9D.jpg" class="image"><img alt="支付宝.jpg" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" decoding="async" width="300" height="455" data-src="/images/thumb/8/8d/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg/300px-%E6%94%AF%E4%BB%98%E5%AE%9D.jpg" class="lazyload" data-srcset="/images/thumb/8/8d/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg/450px-%E6%94%AF%E4%BB%98%E5%AE%9D.jpg 1.5x, /images/thumb/8/8d/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg/600px-%E6%94%AF%E4%BB%98%E5%AE%9D.jpg 2x" /></a>
+</p><p>爱发电扫描：
+</p><p><a href="/w/%E6%96%87%E4%BB%B6:Afdian-Mooncell_Project.jpg" class="image"><img alt="Afdian-Mooncell Project.jpg" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" decoding="async" width="300" height="388" data-src="/images/thumb/5/5b/Afdian-Mooncell_Project.jpg/300px-Afdian-Mooncell_Project.jpg" class="lazyload" data-srcset="/images/thumb/5/5b/Afdian-Mooncell_Project.jpg/450px-Afdian-Mooncell_Project.jpg 1.5x, /images/thumb/5/5b/Afdian-Mooncell_Project.jpg/600px-Afdian-Mooncell_Project.jpg 2x" /></a>
+</p><p><b><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://afdian.net/a/mooncell">爱发电链接</a></b>
+</p>
+<h3><span id=".E5.85.B6.E4.BB.96"></span><span class="mw-headline" id="其他">其他</span></h3>
+<p><b>若您因为种种原因无法对<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://fgo.wiki/w/首页">Mooncell</a>的子项目PRTS进行资助，您仍可以通过其他方式为PRTS做出贡献。</b>
+</p><p><b>（帮助PRTS撰写更多条目，在解答他人问题，或者撰写相关文章时使用PRTS的数据并附上链接，宣传PRTS等……）。 </b>
+</p>
+<h3><span id=".E8.B5.9E.E5.8A.A9.E8.80.85.E5.85.AC.E7.A4.BA"></span><span class="mw-headline" id="赞助者公示">赞助者公示</span></h3>
+<p>以下为自动更新的<a href="/w/PRTS:%E8%B5%9E%E5%8A%A9%E8%80%85%E4%B8%80%E8%A7%88" title="PRTS:赞助者一览">赞助者列表</a>，更多信息请参阅：<a href="/w/PRTS:%E6%94%B6%E6%94%AF%E4%B8%80%E8%A7%88" title="PRTS:收支一览">PRTS:收支一览</a>。
+</p><p><a href="https://static.mooncell.wiki/static/sponsors.svg" target="_blank" rel="noopener noreferrer"><img inline-block="" width="768" src="https://static.mooncell.wiki/static/sponsors.svg" alt="Mooncell's sponsors"></a>
+</p>
+<h3><span id=".E6.B3.A8.E6.98.8E"></span><span class="mw-headline" id="注明">注明</span></h3>
+<ul><li>所有资助所得，将只用于<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://fgo.wiki/w/首页">Mooncell</a>以及子项目PRTS网站日常维护开销，所有收支都会进行公示。</li>
+<li>B站充电的资助所得，会在每月结算后，公示所得金额。</li>
+<li>微信打赏资助所得，每月也将会进行公示，请务必在留言内提及PRTS相关，并保存转账单号，可以在公示时进行核对资助是否有顺利到账。</li>
+<li>资助前请务必仔细确认链接地址是否是<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://fgo.wiki/w/首页">Mooncell</a>的受款账号。Mooncell和PRTS都无法承担您受骗的损失。</li>
+<li>您向PRTS进行资助，即表明您赞同PRTS的理念，并愿意以此种方式支持我们的发展。<span style="color:#FF0000;">对于资助者我们十分感谢，但资助再多也没有权利以个人意志改变<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://fgo.wiki/w/首页">Mooncell</a>的子项目PRTS的运营方针，以上希望您能谅解。</span></li>
+<li>由于有关部门规定，大陆境内募捐、受捐，需由注册于大陆的组织或大陆居民进行。</li>
+<li>以上内容公示请查看该链接：<a href="/w/PRTS:%E6%94%B6%E6%94%AF%E4%B8%80%E8%A7%88" title="PRTS:收支一览">PRTS:收支一览</a>。</li></ul>
+</div><div id="MenuSidebar" style="display:none"><ul><li><a href="/w/%E9%A6%96%E9%A1%B5" title="首页">首页</a></li>
+<li><a class='copyUrl' data-clipboard-text="https://prts.wiki/id/7242">复制短链接</a></li>
+<li><a href="/w/PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99#资助我们改善访问质量" title="PRTS:如何帮助我们完善网站">支持我们</a></li>
+<li><a href="/w/PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99#赞助者公示" title="PRTS:如何帮助我们完善网站">赞助者一览</a></li>
+<li><a href="/w/PRTS:%E5%8F%8D%E9%A6%88%E4%B8%8E%E5%BB%BA%E8%AE%AE" title="PRTS:反馈与建议">反馈与建议</a></li></ul>
+<p>热门页面
+</p>
+<ul><li class="mw-empty-elt"></li>
+<li><b>当前活动</b>
+<ul><li><a href="/w/%E5%8D%B1%E6%9C%BA%E5%90%88%E7%BA%A6/%E6%B5%8A%E7%87%83%E4%BD%9C%E6%88%98" title="危机合约/浊燃作战">危机合约 #1「浊燃作战」</a></li>
+<li><a href="/w/%E6%8E%A2%E7%B4%A2%E8%80%85%E7%9A%84%E9%93%B6%E5%87%87%E6%AD%A2%E5%A2%83" title="探索者的银凇止境">集成战略 #4「探索者的银凇止境」</a></li></ul></li>
+<li><b>新增干员<span style="padding-left:10px;"><span style="font-size:10px;color: #ffffff;background-color:red;padding-right: 4px;padding-left: 4px;border-radius: 3px;text-shadow: 0 0 2px rgb(0 0 0 / 40%);font-weight:bold">NEW</span></span></b>
+<ul><li><a href="/w/%E5%A1%91%E5%BF%83" title="塑心">塑心</a></li>
+<li><a href="/w/%E8%96%87%E8%96%87%E5%AE%89%E5%A8%9C" title="薇薇安娜">薇薇安娜</a></li>
+<li><a href="/w/%E6%AD%A2%E9%A2%82" title="止颂">止颂</a></li>
+<li><a href="/w/%E6%B7%B1%E5%BE%8B" title="深律">深律</a></li>
+<li><a href="/w/%E6%8A%98%E5%85%89" title="折光">折光</a></li>
+<li><a href="/w/%E8%B7%83%E8%B7%83" title="跃跃">跃跃</a></li></ul></li>
+<li><a href="/w/%E5%B9%B2%E5%91%98%E4%B8%80%E8%A7%88" title="干员一览">干员一览</a></li></ul>
+<p>菜单
+</p>
+<ul><li><b>通用</b>
+<ul><li><a href="/w/%E5%B9%B2%E5%91%98%E4%B8%80%E8%A7%88" title="干员一览">干员一览</a></li>
+<li><a href="/w/%E6%95%8C%E4%BA%BA%E4%B8%80%E8%A7%88" title="敌人一览">敌人一览</a></li>
+<li><a href="/w/%E9%81%93%E5%85%B7%E4%B8%80%E8%A7%88" title="道具一览">道具一览</a></li>
+<li><a href="/w/%E5%90%8E%E5%8B%A4%E6%8A%80%E8%83%BD%E4%B8%80%E8%A7%88" title="后勤技能一览">后勤技能</a></li>
+<li><a href="/w/%E5%85%B3%E5%8D%A1%E4%B8%80%E8%A7%88" title="关卡一览">关卡一览</a></li>
+<li><a href="/w/%E5%89%A7%E6%83%85%E4%B8%80%E8%A7%88" title="剧情一览">剧情记录</a></li>
+<li><a href="/w/%E5%AE%B6%E5%85%B7%E4%B8%80%E8%A7%88" title="家具一览">家具一览</a></li>
+<li><a href="/w/%E6%97%B6%E8%A3%85%E5%9B%9E%E5%BB%8A" title="时装回廊">时装回廊</a></li>
+<li><a href="/w/%E9%87%87%E8%B4%AD%E4%B8%AD%E5%BF%83" title="采购中心">采购中心</a></li>
+<li><a href="/w/%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88" title="卡池一览">卡池一览</a></li>
+<li><a href="/w/%E6%B4%BB%E5%8A%A8%E4%B8%80%E8%A7%88" title="活动一览">活动一览</a></li>
+<li><a href="/w/%E5%85%AC%E6%8B%9B%E8%AE%A1%E7%AE%97" title="公招计算">公招计算</a></li></ul></li>
+<li><b>档案</b>
+<ul><li><a href="/w/%E7%94%BB%E5%B8%88%E4%B8%80%E8%A7%88" title="画师一览">画师一览</a></li>
+<li><a href="/w/%E9%85%8D%E9%9F%B3%E4%B8%80%E8%A7%88" title="配音一览">配音一览</a></li>
+<li><a href="/w/%E5%88%86%E6%94%AF%E4%B8%80%E8%A7%88" title="分支一览">分支一览</a></li>
+<li><a href="/w/%E5%B9%B2%E5%91%98%E5%AF%86%E5%BD%95%E4%B8%80%E8%A7%88" title="干员密录一览">干员密录</a></li>
+<li><a href="/w/%E5%B9%B2%E5%91%98%E6%A8%A1%E7%BB%84%E4%B8%80%E8%A7%88" title="干员模组一览">干员模组</a></li>
+<li><a href="/w/%E5%B9%B2%E5%91%98%E7%BC%96%E5%8F%B7%E4%B8%80%E8%A7%88" title="干员编号一览">干员编号</a></li>
+<li><a href="/w/%E8%A7%92%E8%89%B2%E7%9C%9F%E5%90%8D" title="角色真名">角色真名</a></li>
+<li><a href="/w/%E5%B9%B2%E5%91%98%E9%A2%84%E5%91%8A" title="干员预告">干员预告</a></li>
+<li><a href="/w/%E5%B9%B2%E5%91%98%E4%B8%93%E7%B2%BE" title="干员专精">干员专精</a></li>
+<li><a href="/w/%E5%B9%B2%E5%91%98%E5%89%A7%E6%83%85%E4%B8%80%E8%A7%88" title="干员剧情一览">干员剧情一览</a></li>
+<li><a href="/w/%E6%A1%A3%E6%A1%88%E4%BF%A1%E6%81%AF%E4%B8%80%E8%A7%88" title="档案信息一览">档案信息一览</a></li></ul></li>
+<li><b>玩法</b>
+<ul><li><a href="/w/%E5%8D%B1%E6%9C%BA%E5%90%88%E7%BA%A6" title="危机合约">危机合约</a></li>
+<li><a href="/w/%E9%9B%86%E6%88%90%E6%88%98%E7%95%A5" title="集成战略">集成战略</a></li>
+<li><a href="/w/%E5%A4%9A%E7%BB%B4%E5%90%88%E4%BD%9C" title="多维合作">多维合作</a></li>
+<li><a href="/w/%E8%8D%B7%E8%B0%9F%E4%BC%8A%E6%99%BA%E5%A2%83" title="荷谟伊智境">联锁竞赛</a></li>
+<li><a href="/w/%E4%BF%9D%E5%85%A8%E6%B4%BE%E9%A9%BB" title="保全派驻">保全派驻</a></li>
+<li><a href="/w/%E5%BC%95%E8%88%AA%E8%80%85%E8%AF%95%E7%82%BC" title="引航者试炼">引航者试炼</a></li>
+<li><a href="/w/%E7%94%9F%E6%81%AF%E6%BC%94%E7%AE%97" title="生息演算">生息演算</a></li>
+<li><a href="/w/%E5%B0%96%E7%81%AD%E6%B5%8B%E8%AF%95%E4%BD%9C%E6%88%98" title="尖灭测试作战">尖灭测试作战</a></li>
+<li><a href="/w/%E7%BA%B7%E4%BA%89%E6%BC%94%E7%BB%8E" title="纷争演绎">纷争演绎</a></li></ul></li>
+<li><b>系统</b>
+<ul><li><a href="/w/%E7%BD%97%E5%BE%B7%E5%B2%9B%E5%9F%BA%E5%BB%BA" title="罗德岛基建">基建</a></li>
+<li><a href="/w/%E4%BB%BB%E5%8A%A1%E5%88%97%E8%A1%A8" title="任务列表">任务列表</a></li>
+<li><a href="/w/%E9%82%AE%E4%BB%B6%E8%AE%B0%E5%BD%95" title="邮件记录">邮件记录</a></li>
+<li><a href="/w/%E9%A6%96%E9%A1%B5%E5%9C%BA%E6%99%AF%E4%B8%80%E8%A7%88" title="首页场景一览">首页场景</a></li>
+<li><a href="/w/%E7%95%8C%E9%9D%A2%E4%B8%BB%E9%A2%98%E4%B8%80%E8%A7%88" title="界面主题一览">界面主题</a></li>
+<li><a href="/w/%E4%B8%AA%E4%BA%BA%E5%90%8D%E7%89%87%E5%A4%B4%E5%83%8F%E4%B8%80%E8%A7%88" title="个人名片头像一览">名片头像</a></li>
+<li><a href="/w/%E5%85%89%E8%8D%A3%E4%B9%8B%E8%B7%AF" title="光荣之路">光荣之路</a></li>
+<li><a href="/w/%E6%83%85%E6%8A%A5%E5%A4%84%E7%90%86%E5%AE%A4" title="情报处理室">情报处理室</a></li></ul></li>
+<li><b>扩展</b>
+<ul><li><a href="/w/%E6%B8%B8%E6%88%8F%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80" title="游戏数据基础">基础数据</a></li>
+<li><a href="/w/%E4%BD%9C%E6%88%98%E6%9C%BA%E5%88%B6" title="作战机制">作战机制</a></li>
+<li><a href="/w/%E6%96%B0%E4%BA%BA%E5%85%A5%E9%97%A8" title="新人入门">新人入门</a></li>
+<li><a href="/w/%E8%B4%B4%E5%A3%AB%E4%B8%80%E8%A7%88" title="贴士一览">贴士一览</a></li>
+<li><a href="/w/%E8%AF%8D%E6%B1%87%E4%B8%80%E8%A7%88" class="mw-redirect" title="词汇一览">词汇一览</a></li>
+<li><a href="/w/%E5%88%B6%E4%BD%9C%E7%BB%84%E9%80%9A%E8%AE%AF" title="制作组通讯">制作组通讯</a></li>
+<li><a href="/w/%E5%89%A7%E6%83%85%E8%A7%92%E8%89%B2%E4%B8%80%E8%A7%88" title="剧情角色一览">剧情角色一览</a></li>
+<li><a href="/w/%E6%B8%B8%E6%88%8F%E5%86%85%E5%AE%B9%E5%89%8D%E7%9E%BB" title="游戏内容前瞻">游戏内容前瞻</a></li>
+<li><a href="/w/%E5%89%A7%E6%83%85%E8%B5%84%E6%BA%90%E6%A6%82%E8%A7%88" title="剧情资源概览">剧情资源概览</a></li>
+<li><a href="/w/%E5%88%86%E7%B1%BB:%E6%B1%87%E6%80%BB" title="分类:汇总">各类信息汇总</a></li></ul></li>
+<li><b>趣味</b>
+<ul><li><a href="/w/%E6%B3%B0%E6%8B%89%E5%A4%A7%E5%85%B8:Index" title="泰拉大典:Index">泰拉大典</a></li>
+<li><a href="/w/%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F" title="音乐鉴赏">音乐鉴赏</a></li>
+<li><a href="/w/%E5%88%86%E7%B1%BB:%E5%AF%BB%E8%AE%BF%E6%A8%A1%E6%8B%9F" title="分类:寻访模拟">寻访模拟</a></li>
+<li><a href="/w/%E8%A1%8D%E7%94%9F%E4%BD%9C%E5%93%81" title="衍生作品">衍生作品</a></li>
+<li><a href="/w/%E5%85%89%E8%8D%A3%E4%B9%8B%E8%B7%AF%E6%A8%A1%E6%8B%9F%E5%99%A8" title="光荣之路模拟器">光荣之路模拟器</a></li></ul></li>
+<li><a href="/w/%E7%89%B9%E6%AE%8A:%E9%9A%8F%E6%9C%BA" title="特殊:随机">随机页面</a></li></ul>
+<p>探索
+</p>
+<ul class="mooncell-link"><li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://fgo.wiki">Mooncell主站</a></li></ul>
+<ul><li><b>官方网站</b>
+<ul><li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://ak.hypergryph.com">明日方舟简中服官网</a></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://monster-siren.hypergryph.com/">塞壬唱片</a></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://terra-historicus.hypergryph.com/">泰拉记事社</a></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.arknights.jp">明日方舟日服官网</a></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.arknights.global">明日方舟美服官网</a></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://ak.txwy.tw/">明日方舟台服官网</a></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.arknights.kr">明日方舟韩服官网</a></li></ul></li>
+<li><b>友情链接</b>
+<ul><li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://riesa.cn">拖把日记</a></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://www.gfwiki.org">少前百科GFwiki</a></li>
+<li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://penguin-stats.cn">企鹅物流数据统计</a></li></ul></li></ul>
+<p>管理与编辑
+</p>
+<ul><li><a href="/w/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="特殊:最近更改">最近更改</a></li>
+<li><a href="/w/PRTS:%E7%BC%96%E8%BE%91%E6%8C%87%E5%8D%97" class="mw-redirect" title="PRTS:编辑指南">编辑指南</a></li>
+<li><a href="/w/PRTS:%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81" title="PRTS:常用代码">常用代码</a></li>
+<li><a href="/w/%E5%88%86%E7%B1%BB:PRTS%E6%A8%A1%E6%9D%BF" title="分类:PRTS模板">模板一览</a></li>
+<li><a href="/w/%E7%89%B9%E6%AE%8A:%E8%B4%A1%E7%8C%AE%E5%BE%97%E5%88%86" title="特殊:贡献得分">贡献分数</a></li>
+<li><a href="/w/PRTS:%E6%94%B6%E6%94%AF%E4%B8%80%E8%A7%88" title="PRTS:收支一览">收支一览</a></li>
+<li><a href="/w/PRTS:%E7%89%B9%E6%AE%8A%E8%B4%A1%E7%8C%AE" title="PRTS:特殊贡献">特殊贡献</a></li></ul>
+<p>Languages
+</p>
+<ul><li><script src="https://s2.pstatp.com/cdn/expire-1-M/js-cookie/2.2.0/js.cookie.min.js" type="application/javascript"></script>
+<script>function changeUserLang(langCode) {var params ={action:'options',change:'language=' + langCode,format:'json'};api =new mw.Api();api.postWithToken('csrf',params ).done(function(data ) {window.location.reload();});}
+function changeAnonLang(langCode) {Cookies.set('ak_aklanguage',langCode);window.location.reload();}
+function changeLang(langCode){var username =mw.config.get("wgUserName");if (!!username ) {changeUserLang(langCode );}
+else {changeAnonLang(langCode );}
+}
+</script>
+<a id="switcher-ja" onclick="changeLang('ja')">日本語</a></li>
+<li><a id="switcher-en" onclick="changeLang('en')">English</a></li>
+<li><a id="switcher-zh-cn" onclick="changeLang('zh-cn')">中文</a></li></ul><p id="vmsTB">工具</p><ul id="MSToolbox"></ul><div></div></div><script>window.addEventListener("DOMContentLoaded",(function(){document.querySelector("#MSToolbox").innerHTML=document.querySelector("#p-tb ul").innerHTML,document.querySelectorAll("#mw-panel > *:not(#p-logo)").forEach((function(e){return e.remove()}));for(var e=document.querySelectorAll("#MenuSidebar li>ul"),n=0;n<e.length;n++)e[n].parentElement.classList.add("child");e=document.querySelectorAll("#MenuSidebar > ul#MSToolbox > li");for(var o=0;o<e.length;o++)""===e[o].innerHTML&&e[o].parentNode.removeChild(e[o]);var r=document.querySelector("#MenuSidebar");r.setAttribute("style",""),document.querySelector("#mw-panel").appendChild(r)}));</script>
+<div class="printfooter" data-nosnippet="">取自“<a dir="ltr" href="https://prts.wiki/index.php?title=PRTS:如何帮助我们完善网站&amp;oldid=281772">https://prts.wiki/index.php?title=PRTS:如何帮助我们完善网站&amp;oldid=281772</a>”</div></div>
+<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>导航菜单</h2>
+<div id="mw-head">
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation">
+<h3 id="p-personal-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">个人工具</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li id="pt-uls" class="mw-list-item active"><a class="uls-trigger" href="#"><span>中文（中国大陆）</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=PRTS%3A%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99" title="建议您创建一个账户并登录，不过这不是强制的"><span>创建账号</span></a></li><li id="pt-login" class="mw-list-item"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=PRTS%3A%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99" title="我们建议您登录，不过这不是强制的[o]" accesskey="o"><span>登录</span></a></li></ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation">
+<h3 id="p-namespaces-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">命名空间</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li id="ca-nstab-project" class="selected mw-list-item"><a href="/w/PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99" title="查看计划页面[a]" accesskey="a"><span>项目页面</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/index.php?title=PRTS%E8%AE%A8%E8%AE%BA:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99&amp;action=edit&amp;redlink=1" rel="discussion" title="关于内容页面的讨论（页面不存在）[t]" accesskey="t"><span>讨论</span></a></li></ul>
+</div>
+</nav>
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation">
+<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+<label id="p-variants-label" aria-label="更改语言变体" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">大陆简体</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation">
+<h3 id="p-views-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">查看</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/w/PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99"><span>阅读</span></a></li><li id="ca-viewsource" class="mw-list-item"><a href="/index.php?title=PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99&amp;action=edit" title="本页面受到保护。&#10;您可以查看其源代码[e]" accesskey="e"><span>查看源代码</span></a></li><li id="ca-history" class="mw-list-item"><a href="/index.php?title=PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99&amp;action=history" title="本页面过去的版本[h]" accesskey="h"><span>查看历史</span></a></li></ul>
+</div>
+</nav>
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" title="更多选项">
+<input type="checkbox" id="p-cactions-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-cactions" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+<label id="p-cactions-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">更多</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+<div>
+<h3>
+<label for="searchInput">搜索</label>
+</h3>
+<form action="/index.php" id="searchform" class="vector-search-box-form">
+<div id="simpleSearch" class="vector-search-box-inner" data-search-loc="header-navigation">
+<input class="vector-search-box-input" type="search" name="search" placeholder="在PRTS搜索" aria-label="在PRTS搜索" autocapitalize="sentences" title="在PRTS搜索[f]" accesskey="f" id="searchInput">
+<input type="hidden" name="title" value="特殊:搜索">
+<input id="mw-searchButton" class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="搜索含这些文字的页面" value="搜索">
+<input id="searchButton" class="searchButton" type="submit" name="go" title="若相同标题存在，则直接前往该页面" value="前往">
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/w/%E9%A6%96%E9%A1%B5" title="访问首页"></a>
+</div>
+<nav id="p-{{#ifeq:{{FULLPAGENAME}}|首页|{{#tsl:zh|{{#Widget:CopyURL|title=复制短链接|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}{{#tsl:ja|{{#Widget:CopyURL|title=短縮URL|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}{{#tsl:nozhja|{{#Widget:CopyURL|title=Short_URL|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}|{{#ifeq:{{NAMESPACENUMBER}}|-1|{{#tsl:zh|[[首页]]}}{{#tsl:ja|[[首页|メインページ]]}}{{#tsl:nozhja|[[首页|Main_page]]}}|{{#tsl:zh|[[首页]]}}{{#tsl:ja|[[首页|メインページ]]}}{{#tsl:nozhja|[[首页|Main_page]]}}" class="vector-menu mw-portlet mw-portlet-_ifeq_FULLPAGENAME_首页_tsl_zh_Widget_CopyURL_title_复制短链接_id_sidebar_url_https_prts_wiki_id_PAGEID_tsl_ja_Widget_CopyURL_title_短縮URL_id_sidebar_url_https_prts_wiki_id_PAGEID_tsl_nozhja_Widget_CopyURL_title_Short_URL_id_sidebar_url_https_prts_wiki_id_PAGEID_ifeq_NAMESPACENUMBER_-1_tsl_zh_首页_tsl_ja_首页_メインページ_tsl_nozhja_首页_Main_page_tsl_zh_首页_tsl_ja_首页_メインページ_tsl_nozhja_首页_Main_page emptyPortlet vector-menu-portal portal" aria-labelledby="p-{{#ifeq:{{FULLPAGENAME}}|首页|{{#tsl:zh|{{#Widget:CopyURL|title=复制短链接|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}{{#tsl:ja|{{#Widget:CopyURL|title=短縮URL|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}{{#tsl:nozhja|{{#Widget:CopyURL|title=Short_URL|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}|{{#ifeq:{{NAMESPACENUMBER}}|-1|{{#tsl:zh|[[首页]]}}{{#tsl:ja|[[首页|メインページ]]}}{{#tsl:nozhja|[[首页|Main_page]]}}|{{#tsl:zh|[[首页]]}}{{#tsl:ja|[[首页|メインページ]]}}{{#tsl:nozhja|[[首页|Main_page]]}}-label" role="navigation">
+<h3 id="p-{{#ifeq:{{FULLPAGENAME}}|首页|{{#tsl:zh|{{#Widget:CopyURL|title=复制短链接|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}{{#tsl:ja|{{#Widget:CopyURL|title=短縮URL|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}{{#tsl:nozhja|{{#Widget:CopyURL|title=Short_URL|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}|{{#ifeq:{{NAMESPACENUMBER}}|-1|{{#tsl:zh|[[首页]]}}{{#tsl:ja|[[首页|メインページ]]}}{{#tsl:nozhja|[[首页|Main_page]]}}|{{#tsl:zh|[[首页]]}}{{#tsl:ja|[[首页|メインページ]]}}{{#tsl:nozhja|[[首页|Main_page]]}}-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">{{#ifeq:{{FULLPAGENAME}}|首页|{{#tsl:zh|{{#Widget:CopyURL|title=复制短链接|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}{{#tsl:ja|{{#Widget:CopyURL|title=短縮URL|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}{{#tsl:nozhja|{{#Widget:CopyURL|title=Short URL|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}|{{#ifeq:{{NAMESPACENUMBER}}|-1|{{#tsl:zh|[[首页]]}}{{#tsl:ja|[[首页|メインページ]]}}{{#tsl:nozhja|[[首页|Main page]]}}|{{#tsl:zh|[[首页]]}}{{#tsl:ja|[[首页|メインページ]]}}{{#tsl:nozhja|[[首页|Main page]]}}</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-{{#tsl:zh|{{#Widget:CopyURL|title=复制短链接|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}{{#tsl:ja|{{#Widget:CopyURL|title=短縮URL|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}{{#tsl:nozhja|{{#Widget:CopyURL|title=Short_URL|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}}}}}" class="vector-menu mw-portlet mw-portlet-_tsl_zh_Widget_CopyURL_title_复制短链接_id_sidebar_url_https_prts_wiki_id_PAGEID_tsl_ja_Widget_CopyURL_title_短縮URL_id_sidebar_url_https_prts_wiki_id_PAGEID_tsl_nozhja_Widget_CopyURL_title_Short_URL_id_sidebar_url_https_prts_wiki_id_PAGEID emptyPortlet vector-menu-portal portal" aria-labelledby="p-{{#tsl:zh|{{#Widget:CopyURL|title=复制短链接|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}{{#tsl:ja|{{#Widget:CopyURL|title=短縮URL|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}{{#tsl:nozhja|{{#Widget:CopyURL|title=Short_URL|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}}}}}-label" role="navigation">
+<h3 id="p-{{#tsl:zh|{{#Widget:CopyURL|title=复制短链接|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}{{#tsl:ja|{{#Widget:CopyURL|title=短縮URL|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}{{#tsl:nozhja|{{#Widget:CopyURL|title=Short_URL|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}}}}}-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">{{#tsl:zh|{{#Widget:CopyURL|title=复制短链接|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}{{#tsl:ja|{{#Widget:CopyURL|title=短縮URL|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}{{#tsl:nozhja|{{#Widget:CopyURL|title=Short URL|id=sidebar|url=https://prts.wiki/id/{{PAGEID}}}}}}}}}}</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-{{#tsl:zh|[[PRTS:如何帮助我们完善网站#资助我们改善访问质量|支持我们]]}}{{#tsl:ja|[[PRTS:如何帮助我们完善网站#资助我们改善访问质量|Support_us]]}}{{#tsl:nozhja|[[PRTS:如何帮助我们完善网站#资助我们改善访问质量|Support_us]]}}" class="vector-menu mw-portlet mw-portlet-_tsl_zh_PRTS_如何帮助我们完善网站_资助我们改善访问质量_支持我们_tsl_ja_PRTS_如何帮助我们完善网站_资助我们改善访问质量_Support_us_tsl_nozhja_PRTS_如何帮助我们完善网站_资助我们改善访问质量_Support_us emptyPortlet vector-menu-portal portal" aria-labelledby="p-{{#tsl:zh|[[PRTS:如何帮助我们完善网站#资助我们改善访问质量|支持我们]]}}{{#tsl:ja|[[PRTS:如何帮助我们完善网站#资助我们改善访问质量|Support_us]]}}{{#tsl:nozhja|[[PRTS:如何帮助我们完善网站#资助我们改善访问质量|Support_us]]}}-label" role="navigation">
+<h3 id="p-{{#tsl:zh|[[PRTS:如何帮助我们完善网站#资助我们改善访问质量|支持我们]]}}{{#tsl:ja|[[PRTS:如何帮助我们完善网站#资助我们改善访问质量|Support_us]]}}{{#tsl:nozhja|[[PRTS:如何帮助我们完善网站#资助我们改善访问质量|Support_us]]}}-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">{{#tsl:zh|[[PRTS:如何帮助我们完善网站#资助我们改善访问质量|支持我们]]}}{{#tsl:ja|[[PRTS:如何帮助我们完善网站#资助我们改善访问质量|Support us]]}}{{#tsl:nozhja|[[PRTS:如何帮助我们完善网站#资助我们改善访问质量|Support us]]}}</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-{{#tsl:zh|[[PRTS:反馈与建议|反馈与建议]]}}{{#tsl:ja|[[PRTS:反馈与建议|報告·質問掲示板]]}}{{#tsl:nozhja|[[PRTS:反馈与建议|Help_and_advice]]}}" class="vector-menu mw-portlet mw-portlet-_tsl_zh_PRTS_反馈与建议_反馈与建议_tsl_ja_PRTS_反馈与建议_報告·質問掲示板_tsl_nozhja_PRTS_反馈与建议_Help_and_advice emptyPortlet vector-menu-portal portal" aria-labelledby="p-{{#tsl:zh|[[PRTS:反馈与建议|反馈与建议]]}}{{#tsl:ja|[[PRTS:反馈与建议|報告·質問掲示板]]}}{{#tsl:nozhja|[[PRTS:反馈与建议|Help_and_advice]]}}-label" role="navigation">
+<h3 id="p-{{#tsl:zh|[[PRTS:反馈与建议|反馈与建议]]}}{{#tsl:ja|[[PRTS:反馈与建议|報告·質問掲示板]]}}{{#tsl:nozhja|[[PRTS:反馈与建议|Help_and_advice]]}}-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">{{#tsl:zh|[[PRTS:反馈与建议|反馈与建议]]}}{{#tsl:ja|[[PRTS:反馈与建议|報告·質問掲示板]]}}{{#tsl:nozhja|[[PRTS:反馈与建议|Help and advice]]}}</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-{{MenuSidebarAutoEvents}}" class="vector-menu mw-portlet mw-portlet-_MenuSidebarAutoEvents emptyPortlet vector-menu-portal portal" aria-labelledby="p-{{MenuSidebarAutoEvents}}-label" role="navigation">
+<h3 id="p-{{MenuSidebarAutoEvents}}-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">{{MenuSidebarAutoEvents}}</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-&#039;&#039;&#039;{{#tsl:zh|新增干员}}{{#tsl:ja|新オペレーター}}{{#tsl:nozhja|New_Operators}}&lt;span_style=&quot;padding-left:10px;&quot;&gt;&lt;span_style=&quot;font-size:10px;color:_#ffffff;background-color:red;padding-right:_4px;padding-left:_4px;border-radius:_3px;text-shadow:_0_0_2px_rgb(0_0_0_/_40%);font-weight:bold&quot;&gt;NEW&lt;/span&gt;&lt;/span&gt;&#039;&#039;&#039;" class="vector-menu mw-portlet mw-portlet-_tsl_zh_新增干员_tsl_ja_新オペレーター_tsl_nozhja_New_Operators_span_style_padding-left_10px_span_style_font-size_10px_color_ffffff_background-color_red_padding-right_4px_padding-left_4px_border-radius_3px_text-shadow_0_0_2px_rgb_0_0_0_40_font-weight_bold_NEW_span_span emptyPortlet vector-menu-portal portal" aria-labelledby="p-&#039;&#039;&#039;{{#tsl:zh|新增干员}}{{#tsl:ja|新オペレーター}}{{#tsl:nozhja|New_Operators}}&lt;span_style=&quot;padding-left:10px;&quot;&gt;&lt;span_style=&quot;font-size:10px;color:_#ffffff;background-color:red;padding-right:_4px;padding-left:_4px;border-radius:_3px;text-shadow:_0_0_2px_rgb(0_0_0_/_40%);font-weight:bold&quot;&gt;NEW&lt;/span&gt;&lt;/span&gt;&#039;&#039;&#039;-label" role="navigation">
+<h3 id="p-&#039;&#039;&#039;{{#tsl:zh|新增干员}}{{#tsl:ja|新オペレーター}}{{#tsl:nozhja|New_Operators}}&lt;span_style=&quot;padding-left:10px;&quot;&gt;&lt;span_style=&quot;font-size:10px;color:_#ffffff;background-color:red;padding-right:_4px;padding-left:_4px;border-radius:_3px;text-shadow:_0_0_2px_rgb(0_0_0_/_40%);font-weight:bold&quot;&gt;NEW&lt;/span&gt;&lt;/span&gt;&#039;&#039;&#039;-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">&#039;&#039;&#039;{{#tsl:zh|新增干员}}{{#tsl:ja|新オペレーター}}{{#tsl:nozhja|New Operators}}&lt;span style=&quot;padding-left:10px;&quot;&gt;&lt;span style=&quot;font-size:10px;color: #ffffff;background-color:red;padding-right: 4px;padding-left: 4px;border-radius: 3px;text-shadow: 0 0 2px rgb(0 0 0 / 40%);font-weight:bold&quot;&gt;NEW&lt;/span&gt;&lt;/span&gt;&#039;&#039;&#039;</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-[[干员一览|{{#tsl:zh|干员一览}}{{#tsl:ja|オペレーター一覧}}{{#tsl:nozhja|Operators}}]]" class="vector-menu mw-portlet mw-portlet-_干员一览_tsl_zh_干员一览_tsl_ja_オペレーター一覧_tsl_nozhja_Operators emptyPortlet vector-menu-portal portal" aria-labelledby="p-[[干员一览|{{#tsl:zh|干员一览}}{{#tsl:ja|オペレーター一覧}}{{#tsl:nozhja|Operators}}]]-label" role="navigation">
+<h3 id="p-[[干员一览|{{#tsl:zh|干员一览}}{{#tsl:ja|オペレーター一覧}}{{#tsl:nozhja|Operators}}]]-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">[[干员一览|{{#tsl:zh|干员一览}}{{#tsl:ja|オペレーター一覧}}{{#tsl:nozhja|Operators}}]]</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-&#039;&#039;&#039;{{#tsl:zh|通用}}{{#tsl:ja|基礎}}{{#tsl:nozhja|General}}&#039;&#039;&#039;" class="vector-menu mw-portlet mw-portlet-_tsl_zh_通用_tsl_ja_基礎_tsl_nozhja_General vector-menu-portal portal" aria-labelledby="p-&#039;&#039;&#039;{{#tsl:zh|通用}}{{#tsl:ja|基礎}}{{#tsl:nozhja|General}}&#039;&#039;&#039;-label" role="navigation">
+<h3 id="p-&#039;&#039;&#039;{{#tsl:zh|通用}}{{#tsl:ja|基礎}}{{#tsl:nozhja|General}}&#039;&#039;&#039;-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">&#039;&#039;&#039;{{#tsl:zh|通用}}{{#tsl:ja|基礎}}{{#tsl:nozhja|General}}&#039;&#039;&#039;</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li id="n-干员一览]]" class="mw-list-item"><a href=""><span>干员一览]]</span></a></li><li id="n-敌人一览]]" class="mw-list-item"><a href=""><span>敌人一览]]</span></a></li><li id="n-道具一览]]" class="mw-list-item"><a href=""><span>道具一览]]</span></a></li><li id="n-后勤技能]]" class="mw-list-item"><a href=""><span>后勤技能]]</span></a></li><li id="n-关卡一览]]" class="mw-list-item"><a href=""><span>关卡一览]]</span></a></li><li id="n-剧情记录]]" class="mw-list-item"><a href=""><span>剧情记录]]</span></a></li><li id="n-家具一览]]" class="mw-list-item"><a href=""><span>家具一览]]</span></a></li><li id="n-时装回廊]]" class="mw-list-item"><a href=""><span>时装回廊]]</span></a></li><li id="n-采购中心]]" class="mw-list-item"><a href=""><span>采购中心]]</span></a></li><li id="n-卡池一览]]" class="mw-list-item"><a href=""><span>卡池一览]]</span></a></li><li id="n-活动一览]]" class="mw-list-item"><a href=""><span>活动一览]]</span></a></li></ul>
+</div>
+</nav>
+<nav id="p-&#039;&#039;&#039;{{#tsl:zh|档案}}{{#tsl:ja|資料}}{{#tsl:nozhja|Information}}&#039;&#039;&#039;" class="vector-menu mw-portlet mw-portlet-_tsl_zh_档案_tsl_ja_資料_tsl_nozhja_Information vector-menu-portal portal" aria-labelledby="p-&#039;&#039;&#039;{{#tsl:zh|档案}}{{#tsl:ja|資料}}{{#tsl:nozhja|Information}}&#039;&#039;&#039;-label" role="navigation">
+<h3 id="p-&#039;&#039;&#039;{{#tsl:zh|档案}}{{#tsl:ja|資料}}{{#tsl:nozhja|Information}}&#039;&#039;&#039;-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">&#039;&#039;&#039;{{#tsl:zh|档案}}{{#tsl:ja|資料}}{{#tsl:nozhja|Information}}&#039;&#039;&#039;</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li id="n-画师一览]]" class="mw-list-item"><a href=""><span>画师一览]]</span></a></li><li id="n-配音一览]]" class="mw-list-item"><a href=""><span>配音一览]]</span></a></li><li id="n-分支一览]]" class="mw-list-item"><a href=""><span>分支一览]]</span></a></li><li id="n-干员密录]]" class="mw-list-item"><a href=""><span>干员密录]]</span></a></li><li id="n-干员模组]]" class="mw-list-item"><a href=""><span>干员模组]]</span></a></li><li id="n-干员编号]]" class="mw-list-item"><a href=""><span>干员编号]]</span></a></li><li id="n-角色真名]]" class="mw-list-item"><a href=""><span>角色真名]]</span></a></li><li id="n-干员预告]]" class="mw-list-item"><a href=""><span>干员预告]]</span></a></li><li id="n-干员专精]]" class="mw-list-item"><a href=""><span>干员专精]]</span></a></li><li id="n-干员剧情一览]]" class="mw-list-item"><a href=""><span>干员剧情一览]]</span></a></li><li id="n-档案信息一览]]" class="mw-list-item"><a href=""><span>档案信息一览]]</span></a></li></ul>
+</div>
+</nav>
+<nav id="p-&#039;&#039;&#039;{{#tsl:zh|玩法}}{{#tsl:ja|ゲームモード}}{{#tsl:nozhja|Game_Mode}}&#039;&#039;&#039;" class="vector-menu mw-portlet mw-portlet-_tsl_zh_玩法_tsl_ja_ゲームモード_tsl_nozhja_Game_Mode vector-menu-portal portal" aria-labelledby="p-&#039;&#039;&#039;{{#tsl:zh|玩法}}{{#tsl:ja|ゲームモード}}{{#tsl:nozhja|Game_Mode}}&#039;&#039;&#039;-label" role="navigation">
+<h3 id="p-&#039;&#039;&#039;{{#tsl:zh|玩法}}{{#tsl:ja|ゲームモード}}{{#tsl:nozhja|Game_Mode}}&#039;&#039;&#039;-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">&#039;&#039;&#039;{{#tsl:zh|玩法}}{{#tsl:ja|ゲームモード}}{{#tsl:nozhja|Game Mode}}&#039;&#039;&#039;</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li id="n-危机合约]]" class="mw-list-item"><a href=""><span>危机合约]]</span></a></li><li id="n-集成战略]]" class="mw-list-item"><a href=""><span>集成战略]]</span></a></li><li id="n-多维合作]]" class="mw-list-item"><a href=""><span>多维合作]]</span></a></li><li id="n-联锁竞赛]]" class="mw-list-item"><a href=""><span>联锁竞赛]]</span></a></li><li id="n-保全派驻]]" class="mw-list-item"><a href=""><span>保全派驻]]</span></a></li><li id="n-引航者试炼]]" class="mw-list-item"><a href=""><span>引航者试炼]]</span></a></li><li id="n-生息演算]]" class="mw-list-item"><a href=""><span>生息演算]]</span></a></li></ul>
+</div>
+</nav>
+<nav id="p-&#039;&#039;&#039;{{#tsl:zh|系统}}{{#tsl:ja|システム}}{{#tsl:nozhja|System}}&#039;&#039;&#039;" class="vector-menu mw-portlet mw-portlet-_tsl_zh_系统_tsl_ja_システム_tsl_nozhja_System vector-menu-portal portal" aria-labelledby="p-&#039;&#039;&#039;{{#tsl:zh|系统}}{{#tsl:ja|システム}}{{#tsl:nozhja|System}}&#039;&#039;&#039;-label" role="navigation">
+<h3 id="p-&#039;&#039;&#039;{{#tsl:zh|系统}}{{#tsl:ja|システム}}{{#tsl:nozhja|System}}&#039;&#039;&#039;-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">&#039;&#039;&#039;{{#tsl:zh|系统}}{{#tsl:ja|システム}}{{#tsl:nozhja|System}}&#039;&#039;&#039;</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li id="n-基建]]" class="mw-list-item"><a href=""><span>基建]]</span></a></li><li id="n-任务列表]]" class="mw-list-item"><a href=""><span>任务列表]]</span></a></li><li id="n-邮件记录]]" class="mw-list-item"><a href=""><span>邮件记录]]</span></a></li><li id="n-首页场景]]" class="mw-list-item"><a href=""><span>首页场景]]</span></a></li><li id="n-名片头像]]" class="mw-list-item"><a href=""><span>名片头像]]</span></a></li><li id="n-光荣之路]]" class="mw-list-item"><a href=""><span>光荣之路]]</span></a></li><li id="n-情报处理室]]" class="mw-list-item"><a href=""><span>情报处理室]]</span></a></li></ul>
+</div>
+</nav>
+<nav id="p-&#039;&#039;&#039;{{#tsl:zh|扩展}}{{#tsl:ja|詳細}}{{#tsl:nozhja|Expansion}}&#039;&#039;&#039;" class="vector-menu mw-portlet mw-portlet-_tsl_zh_扩展_tsl_ja_詳細_tsl_nozhja_Expansion vector-menu-portal portal" aria-labelledby="p-&#039;&#039;&#039;{{#tsl:zh|扩展}}{{#tsl:ja|詳細}}{{#tsl:nozhja|Expansion}}&#039;&#039;&#039;-label" role="navigation">
+<h3 id="p-&#039;&#039;&#039;{{#tsl:zh|扩展}}{{#tsl:ja|詳細}}{{#tsl:nozhja|Expansion}}&#039;&#039;&#039;-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">&#039;&#039;&#039;{{#tsl:zh|扩展}}{{#tsl:ja|詳細}}{{#tsl:nozhja|Expansion}}&#039;&#039;&#039;</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li id="n-基础数据]]" class="mw-list-item"><a href=""><span>基础数据]]</span></a></li><li id="n-作战机制]]" class="mw-list-item"><a href=""><span>作战机制]]</span></a></li><li id="n-新人入门]]" class="mw-list-item"><a href=""><span>新人入门]]</span></a></li><li id="n-贴士一览]]" class="mw-list-item"><a href=""><span>贴士一览]]</span></a></li><li id="n-词汇一览]]" class="mw-list-item"><a href=""><span>词汇一览]]</span></a></li><li id="n-制作组通讯]]" class="mw-list-item"><a href=""><span>制作组通讯]]</span></a></li><li id="n-剧情角色一览]]" class="mw-list-item"><a href=""><span>剧情角色一览]]</span></a></li><li id="n-游戏内容前瞻]]" class="mw-list-item"><a href=""><span>游戏内容前瞻]]</span></a></li><li id="n-剧情资源概览]]" class="mw-list-item"><a href=""><span>剧情资源概览]]</span></a></li><li id="n-各类信息汇总]]" class="mw-list-item"><a href=""><span>各类信息汇总]]</span></a></li></ul>
+</div>
+</nav>
+<nav id="p-&#039;&#039;&#039;{{#tsl:zh|趣味}}{{#tsl:ja|その他}}{{#tsl:nozhja|Funny}}&#039;&#039;&#039;" class="vector-menu mw-portlet mw-portlet-_tsl_zh_趣味_tsl_ja_その他_tsl_nozhja_Funny vector-menu-portal portal" aria-labelledby="p-&#039;&#039;&#039;{{#tsl:zh|趣味}}{{#tsl:ja|その他}}{{#tsl:nozhja|Funny}}&#039;&#039;&#039;-label" role="navigation">
+<h3 id="p-&#039;&#039;&#039;{{#tsl:zh|趣味}}{{#tsl:ja|その他}}{{#tsl:nozhja|Funny}}&#039;&#039;&#039;-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">&#039;&#039;&#039;{{#tsl:zh|趣味}}{{#tsl:ja|その他}}{{#tsl:nozhja|Funny}}&#039;&#039;&#039;</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li id="n-泰拉大典]]" class="mw-list-item"><a href=""><span>泰拉大典]]</span></a></li><li id="n-音乐鉴赏]]" class="mw-list-item"><a href=""><span>音乐鉴赏]]</span></a></li><li id="n-寻访模拟]]" class="mw-list-item"><a href=""><span>寻访模拟]]</span></a></li><li id="n-衍生作品]]" class="mw-list-item"><a href=""><span>衍生作品]]</span></a></li><li id="n-光荣之路模拟器]]" class="mw-list-item"><a href=""><span>光荣之路模拟器]]</span></a></li></ul>
+</div>
+</nav>
+<nav id="p-[[特殊:随机|{{#tsl:zh|随机页面}}{{#tsl:ja|おまかせ表示}}{{#tsl:nozhja|Random_Page}}]]" class="vector-menu mw-portlet mw-portlet-_特殊_随机_tsl_zh_随机页面_tsl_ja_おまかせ表示_tsl_nozhja_Random_Page emptyPortlet vector-menu-portal portal" aria-labelledby="p-[[特殊:随机|{{#tsl:zh|随机页面}}{{#tsl:ja|おまかせ表示}}{{#tsl:nozhja|Random_Page}}]]-label" role="navigation">
+<h3 id="p-[[特殊:随机|{{#tsl:zh|随机页面}}{{#tsl:ja|おまかせ表示}}{{#tsl:nozhja|Random_Page}}]]-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">[[特殊:随机|{{#tsl:zh|随机页面}}{{#tsl:ja|おまかせ表示}}{{#tsl:nozhja|Random Page}}]]</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-&#039;&#039;&#039;{{#tsl:zh|官方网站}}{{#tsl:ja|公式サイト}}{{#tsl:nozhja|Offical_Website}}&#039;&#039;&#039;" class="vector-menu mw-portlet mw-portlet-_tsl_zh_官方网站_tsl_ja_公式サイト_tsl_nozhja_Offical_Website emptyPortlet vector-menu-portal portal" aria-labelledby="p-&#039;&#039;&#039;{{#tsl:zh|官方网站}}{{#tsl:ja|公式サイト}}{{#tsl:nozhja|Offical_Website}}&#039;&#039;&#039;-label" role="navigation">
+<h3 id="p-&#039;&#039;&#039;{{#tsl:zh|官方网站}}{{#tsl:ja|公式サイト}}{{#tsl:nozhja|Offical_Website}}&#039;&#039;&#039;-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">&#039;&#039;&#039;{{#tsl:zh|官方网站}}{{#tsl:ja|公式サイト}}{{#tsl:nozhja|Offical Website}}&#039;&#039;&#039;</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-&#039;&#039;&#039;{{#tsl:zh|友情链接}}{{#tsl:ja|相互リンク}}{{#tsl:nozhja|Link_Exchange}}&#039;&#039;&#039;" class="vector-menu mw-portlet mw-portlet-_tsl_zh_友情链接_tsl_ja_相互リンク_tsl_nozhja_Link_Exchange emptyPortlet vector-menu-portal portal" aria-labelledby="p-&#039;&#039;&#039;{{#tsl:zh|友情链接}}{{#tsl:ja|相互リンク}}{{#tsl:nozhja|Link_Exchange}}&#039;&#039;&#039;-label" role="navigation">
+<h3 id="p-&#039;&#039;&#039;{{#tsl:zh|友情链接}}{{#tsl:ja|相互リンク}}{{#tsl:nozhja|Link_Exchange}}&#039;&#039;&#039;-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">&#039;&#039;&#039;{{#tsl:zh|友情链接}}{{#tsl:ja|相互リンク}}{{#tsl:nozhja|Link Exchange}}&#039;&#039;&#039;</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-[[特殊:最近更改|{{#tsl:zh|最近更改}}{{#tsl:ja|最近の更新}}{{#tsl:nozhja|Recent_Changes}}]]" class="vector-menu mw-portlet mw-portlet-_特殊_最近更改_tsl_zh_最近更改_tsl_ja_最近の更新_tsl_nozhja_Recent_Changes emptyPortlet vector-menu-portal portal" aria-labelledby="p-[[特殊:最近更改|{{#tsl:zh|最近更改}}{{#tsl:ja|最近の更新}}{{#tsl:nozhja|Recent_Changes}}]]-label" role="navigation">
+<h3 id="p-[[特殊:最近更改|{{#tsl:zh|最近更改}}{{#tsl:ja|最近の更新}}{{#tsl:nozhja|Recent_Changes}}]]-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">[[特殊:最近更改|{{#tsl:zh|最近更改}}{{#tsl:ja|最近の更新}}{{#tsl:nozhja|Recent Changes}}]]</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-[[PRTS:编辑指南|{{#tsl:zh|编辑指南}}{{#tsl:ja|編集のガイドライン}}{{#tsl:nozhja|Edit_Guideline}}]]" class="vector-menu mw-portlet mw-portlet-_PRTS_编辑指南_tsl_zh_编辑指南_tsl_ja_編集のガイドライン_tsl_nozhja_Edit_Guideline emptyPortlet vector-menu-portal portal" aria-labelledby="p-[[PRTS:编辑指南|{{#tsl:zh|编辑指南}}{{#tsl:ja|編集のガイドライン}}{{#tsl:nozhja|Edit_Guideline}}]]-label" role="navigation">
+<h3 id="p-[[PRTS:编辑指南|{{#tsl:zh|编辑指南}}{{#tsl:ja|編集のガイドライン}}{{#tsl:nozhja|Edit_Guideline}}]]-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">[[PRTS:编辑指南|{{#tsl:zh|编辑指南}}{{#tsl:ja|編集のガイドライン}}{{#tsl:nozhja|Edit Guideline}}]]</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-[[PRTS:常用代码|{{#tsl:zh|常用代码}}{{#tsl:ja|マークアップ早見表}}{{#tsl:nozhja|Useful_Codes}}]]" class="vector-menu mw-portlet mw-portlet-_PRTS_常用代码_tsl_zh_常用代码_tsl_ja_マークアップ早見表_tsl_nozhja_Useful_Codes emptyPortlet vector-menu-portal portal" aria-labelledby="p-[[PRTS:常用代码|{{#tsl:zh|常用代码}}{{#tsl:ja|マークアップ早見表}}{{#tsl:nozhja|Useful_Codes}}]]-label" role="navigation">
+<h3 id="p-[[PRTS:常用代码|{{#tsl:zh|常用代码}}{{#tsl:ja|マークアップ早見表}}{{#tsl:nozhja|Useful_Codes}}]]-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">[[PRTS:常用代码|{{#tsl:zh|常用代码}}{{#tsl:ja|マークアップ早見表}}{{#tsl:nozhja|Useful Codes}}]]</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-[[:分类:PRTS模板|{{#tsl:zh|模板一览}}{{#tsl:ja|テンプレート一覧}}{{#tsl:nozhja|Templates_Overview}}]]" class="vector-menu mw-portlet mw-portlet-_分类_PRTS模板_tsl_zh_模板一览_tsl_ja_テンプレート一覧_tsl_nozhja_Templates_Overview emptyPortlet vector-menu-portal portal" aria-labelledby="p-[[:分类:PRTS模板|{{#tsl:zh|模板一览}}{{#tsl:ja|テンプレート一覧}}{{#tsl:nozhja|Templates_Overview}}]]-label" role="navigation">
+<h3 id="p-[[:分类:PRTS模板|{{#tsl:zh|模板一览}}{{#tsl:ja|テンプレート一覧}}{{#tsl:nozhja|Templates_Overview}}]]-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">[[:分类:PRTS模板|{{#tsl:zh|模板一览}}{{#tsl:ja|テンプレート一覧}}{{#tsl:nozhja|Templates Overview}}]]</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-[[特殊:贡献得分|{{#tsl:zh|贡献分数}}{{#tsl:ja|貢献得点}}{{#tsl:nozhja|Contribution_Scores}}]]" class="vector-menu mw-portlet mw-portlet-_特殊_贡献得分_tsl_zh_贡献分数_tsl_ja_貢献得点_tsl_nozhja_Contribution_Scores emptyPortlet vector-menu-portal portal" aria-labelledby="p-[[特殊:贡献得分|{{#tsl:zh|贡献分数}}{{#tsl:ja|貢献得点}}{{#tsl:nozhja|Contribution_Scores}}]]-label" role="navigation">
+<h3 id="p-[[特殊:贡献得分|{{#tsl:zh|贡献分数}}{{#tsl:ja|貢献得点}}{{#tsl:nozhja|Contribution_Scores}}]]-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">[[特殊:贡献得分|{{#tsl:zh|贡献分数}}{{#tsl:ja|貢献得点}}{{#tsl:nozhja|Contribution Scores}}]]</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-[[PRTS:收支一览|{{#tsl:zh|收支一览}}{{#tsl:ja|収支報告}}{{#tsl:nozhja|Balance_Overview}}]]" class="vector-menu mw-portlet mw-portlet-_PRTS_收支一览_tsl_zh_收支一览_tsl_ja_収支報告_tsl_nozhja_Balance_Overview emptyPortlet vector-menu-portal portal" aria-labelledby="p-[[PRTS:收支一览|{{#tsl:zh|收支一览}}{{#tsl:ja|収支報告}}{{#tsl:nozhja|Balance_Overview}}]]-label" role="navigation">
+<h3 id="p-[[PRTS:收支一览|{{#tsl:zh|收支一览}}{{#tsl:ja|収支報告}}{{#tsl:nozhja|Balance_Overview}}]]-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">[[PRTS:收支一览|{{#tsl:zh|收支一览}}{{#tsl:ja|収支報告}}{{#tsl:nozhja|Balance Overview}}]]</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-{{#Widget:LangSwitcher|langCode=ja|lang=日本語}}" class="vector-menu mw-portlet mw-portlet-_Widget_LangSwitcher_langCode_ja_lang_日本語 emptyPortlet vector-menu-portal portal" aria-labelledby="p-{{#Widget:LangSwitcher|langCode=ja|lang=日本語}}-label" role="navigation">
+<h3 id="p-{{#Widget:LangSwitcher|langCode=ja|lang=日本語}}-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">{{#Widget:LangSwitcher|langCode=ja|lang=日本語}}</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-{{#Widget:LangSwitcher|langCode=en|lang=English}}" class="vector-menu mw-portlet mw-portlet-_Widget_LangSwitcher_langCode_en_lang_English emptyPortlet vector-menu-portal portal" aria-labelledby="p-{{#Widget:LangSwitcher|langCode=en|lang=English}}-label" role="navigation">
+<h3 id="p-{{#Widget:LangSwitcher|langCode=en|lang=English}}-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">{{#Widget:LangSwitcher|langCode=en|lang=English}}</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-{{#Widget:LangSwitcher|langCode=zh-cn|lang=中文}}" class="vector-menu mw-portlet mw-portlet-_Widget_LangSwitcher_langCode_zh-cn_lang_中文 emptyPortlet vector-menu-portal portal" aria-labelledby="p-{{#Widget:LangSwitcher|langCode=zh-cn|lang=中文}}-label" role="navigation">
+<h3 id="p-{{#Widget:LangSwitcher|langCode=zh-cn|lang=中文}}-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">{{#Widget:LangSwitcher|langCode=zh-cn|lang=中文}}</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</nav>
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation">
+<h3 id="p-tb-label" class="vector-menu-heading ">
+<span class="vector-menu-heading-label">工具</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/w/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99" title="所有链接至本页面的wiki页面列表[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/w/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99" rel="nofollow" title="链自本页的页面的最近更改[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/w/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="所有特殊页面的列表[q]" accesskey="q"><span>特殊页面</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]" accesskey="p"><span>可打印版本</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/index.php?title=PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99&amp;oldid=281772" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/index.php?title=PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cargopagevalueslink" class="mw-list-item"><a href="/index.php?title=PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99&amp;action=pagevalues" rel="cargo-pagevalues"><span>页面值</span></a></li><li id="t-smwbrowselink" class="mw-list-item"><a href="/w/%E7%89%B9%E6%AE%8A:%E6%B5%8F%E8%A7%88/:PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99" rel="search"><span>浏览属性</span></a></li></ul>
+</div>
+</nav>
+</div>
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> 此页面最后编辑于2023年10月13日 (星期五) 00:32。</li>
+<li id="footer-info-copyright">本网站是由《明日方舟》游戏爱好者，使用免费开源的 MediaWiki 程序制作。网站所涉及的公司名称、商标、产品等均为其各自所有者的资产，仅供识别。<br>网站内使用的游戏图片、动画、音频、文本原文，仅用于更好地表现游戏资料，其版权属于 Arknights/上海鹰角网络科技有限公司。<br>除非另有声明，网站其他内容采用<a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享</a>授权。</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="/w/PRTS:%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96">隐私政策</a></li>
+<li id="footer-places-about"><a href="/w/PRTS:%E5%85%B3%E4%BA%8E">关于PRTS</a></li>
+<li id="footer-places-disclaimer"><a href="/w/PRTS:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+<li id="footer-places-icp"><a href="https://beian.miit.gov.cn/" rel="noreferrer noopener">京ICP备20024624号-1</a></li>
+<li id="footer-places-mobileview"><a href="//m.prts.wiki/index.php?title=PRTS:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+<ul id="footer-icons" class="noprint">
+<li id="footer-copyrightico"><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img src="/resources/assets/licenses/cc-by-nc-sa.png" alt="知识共享署名-非商业性使用-相同方式共享" width="88" height="31" loading="lazy"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" target="_blank"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a><a href="//project.mooncell.wiki" target="_blank"><img src="/images/project1.png" alt="a Mooncell project" height="31" width="88" loading="lazy"/></a><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANwAAABNCAYAAADNYApnAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAACbYAAAm2AHNRPEFAAAAB3RJTUUH5QcCDx837M/YpgAAN+hJREFUeNrtnXl4VdW5/z9r7zNkOCdzyBwSwhgIg8wQRhEBpQ4V67WoVSutFu/V/m7VUsSpqFhbtNcrtVoHxKFqURHpVZQhAmESAkEIEUJCEsh4CDlJzrj3/v1xONuTkSQEatus59n6cLL23mut/b7rnb9L0EbLzc1FCCE0TUvRNO1q4HIhxDghRJIQQtDbelsnm6Zp/9Jz0nytXNO0vcAXQoj1iqKclCRJy87ObnVvM+bZs2cPXq8XIUQfVVVvkSTpFrPZPMxiscihoaEYDAYMBgO9PNfLEL1r5mterxev10tDQwN2u11xuVzfqKq6WgjxBlADEMh4Oufs3LkTr9eLLMvjgGeCgoKmxMXFSVFRUZhMpl4m62W43naedXS5XNhsNioqKhSHw7EFWKJp2m4hBFOmTPmO4Xbs2OG/6UpJkl6Ijo7un5ycTHBwcO9H6SX+C27/bpu1w+GgpKSE2traY5qmLRZCfKaqKtOmTUNs377d32+8EGJNXFxc/9TUVGRZ7iXAXsLs/e7d/I4ej4eSkhIqKiqOqaq6UAixS9M0DOcmFws8GR0d3T8lJQVZlr8Xk+4lwF61759x/TVNw2Aw0LdvX9xud//q6uongZuAaoOmaWia9pOQkJAZKSkpGAwGNE275MTue53oNoF19h7/vL6bn4am9RJ17wbQPr10hxcCma6hoWFGU1PTTyRJ+p1BVdV0SZJuiYuLE8HBwfpiXopFFUKgaRoVNiffltmpqHUSYTXRP8lCalwIBlnq0XFIQuBweyk61UjRqUYcLi8pfUIYkGIlOswEGmi9RHlRCPDfcTPSNI2QkBDi4+PFiRMnFqqq+oFB07R5JpNpSFRU1EUlksBnC+H7cKVVjby1sYRPc09zsrIJl0fFIAv6RJqZMjyW2+emM6J/xAUTsBACRdXYlFfF6s+K2Vtgo67Bg6pqBAfJ9E+ycP3UZH40M4VIqwlV1XqJsnfj6bH5x8TEUF5enulwOObJt91222+ioqIy4+LidIlzsXZFPxFKkiD/+Fn+84/7+dvWcmrOulHOEbmqatQ3ejl4vI6tedUk9wlhQLK12TO6enkVlVc/PcFvXs7n4PE6HG4FTdPQAI9X5VSNg5wDNRw/1cC4IVGEhRrRtO6/r5coezeAQNqXZRm73S7Z7Xa3QdO0saGhoUiSdElsN0kSlFY18cCfDrCnwIYstSZSIUBCcLKyiSUv5xMVZmLS0GidKbuqRv5taxlPv1VAo9OLQZZa9THIvo3m0x2nMcoSv//FCKwhxn9bRuhVh3ua5iUsFgvAOAOQ4HeUXKqFfmvjSfYePdMmswU2WRaUVzfx3PuFDEsfgyXYQFeGKAk4WdXE/6w9RoPDiyyLDj+GJGls2HmaWaP7cNPlqShar5OgVxr2zJoaDAaABIMQQpz7x0UfnCQJTtU4WL/jlD6Q8zVZEuw9auPAsTomZHZNysmSYPO+So6XNyBJnVsYl0dhfe5pfjA5EbNJ7vQ4ewmwt3W0budSIoUh0CvZ3QXt7K4oCZ+aWF7jQOoCDTc0eXn142MUHK1BVbsyLli/twpF1ZA7+UJJCA4X11NV5yI1LoSuLkkvUfYyf1v8oTOef+AXaxdvvjA+b2FXvIBCCFRVo+hUA7FBXR/jmXo3gq4xaYPDyxm7m75xIaj/xAz0r8z8/4xaRzOGuxQ2nKZpCPxB7q6sLsSEm4mJDKIrfhMBBJmauhRb0zQIMknn7EXtn5poe1Xh78/G46clQ0uiupiDUzWIjw4iOsxMaVVTpxhP0zSCTTK3XZ3BlOHRKEoXbDhZYAwrIa+koNMeWFXTyEi00CfSjKr9+xBtryp8CSVcoJS7mASmaZDaJ4RZo/vwlw0nkDqh7CmqxpC+ViYOiybcYuqal1ISzBkfzxuflXCqxnFeBtc0n6135bg4rCGGLjF3T0ukfycGuBDfQWeeE2hD/aM0jWYSrrsqSHcmYJAFt1zZl8151Zw43dihM0NVNcJCjPz8mgyiwkxdjsOpikb/ZAu3XpnK794pRO1gQ9E0DVWFicOi+MHkxAvONulK8yeLu91uPB4PQgiCgoL031VV7bXH2tqMFQW3262voclkam3CCIGi+BIdjEYjqqr+w7SWZhLuUtkrfom17NYh/GrVQWrq3brHMnAnUs4x2//70UDmjo/vFAO0NX5JCO6cl07VGRerPyvB49WQpNa7nqpB/6RQHv1JJnGR5m4F2bvaJEnC6XSybds2Nm7cyIkTJ6ipqcFkMpGcnMyAAQOYPXs2w4YN+4cllX9fpaEsy+Tl5bFkyRKampq47rrruO+++1AD3NiSJHH69Gkee+wxGhsbefjhhxk4cGCzPv8QG+5SqzFCCOLCDEwdFE5esZ2Keg8Ot4Ki+Haf0CCZoWlh3HV1P+ZOiEeWOpdy1hYxqpqGJcTAkoWD6ZcYypqNJyk61YjLraKhYZAlgk0SyZFmJgwIIzxI1p0sF9NzK8syJ0+eZNmyZXz88cfY7fY2+z7//PMsWLCAJ554AqvV2muPBXybM2fOsG3bNpxOJ8OGDWs1b0mS2Lx5M6+99hqqqnLZZZcxaNCgS64O++lIVdXmNtyl2D0FUFfvZse+KqKCZa4cEc2IYbHYGr2UVTuIspoYlh7GyAERRFqMuleyu2PzhxVCggzcOS+dqyYmsK+wjoKTdpqcXvolWpBVhUNHalFVjZyvK4iPDcFsung1gUII6urqeOCBB/jggw98qrbBQFRUFMHBwSiKwtmzZ2loaKC6ulrHmvlnZaaLMeb2nhn4u6qqDBgwgPT0dJxOJyNGjOhxTa6zdKlLuEDxeik+pgbsPVRNRY3PXZ+ZEcH87CSMBglV03T1UlG1HlXr/MnKcZFmrpoQz1UT4tE0kCRfYL2+zklxeQPHT9o5fOwMozKjL6oquXHjRtatWwdAYmIiDz74INOnTyc0NBRFUaioqGDHjh28/fbbXHXVVURGRrYiFkmSkCSplbPFb7O0JAx/Fb/fLvTf3969/ns683x//5bPbHlPoCrf1pgCfwtknEA7VpIkZFlu1s+fPuWnZ0VRUFWV0aNH88knn+D1ehk0aFCbNpx/3G3N86LacBdfDYCyikb2HqpB0yDMYmLCiFgkCbyKb6HUzjC/EOdkpWge1NO0cyytQbs7IKgBkTlFheAgmQkj+3Cqqgm3RyU3r4r0ZCvhVlOPr4vfiN+yZYtu8N91110sXrxYJyohBBkZGUyaNIkf//jHmEwmWjq3JEnCZrOxc+dOiouL8Xg8mM1mMjMzGTNmDCEhISiKomcBVVRUsHbtWhwOB1lZWcyaNYtDhw6xa9cuGhoaMBgMpKenk52dTVhYmA6Ks2/fPvLz83G5XBiNRjIyMpg4cSIWi6UZ8UqSRFNTEwUFBRw4cIDGxkZUVcVoNJKens7EiRMJDw/XGUIIgcPh4G9/+xuVlZWkpKRw/fXXU1VVxbZt26iurgYgLCyMSZMmkZGRoc+lqKiIDRs2UFBQoEv+AwcO8Oyzz6KqKlFRUdxwww1YrVby8vLYsmULmqZhs9mYNGlSszFIkkR1dTW5ubmUlZXh8XgwmUwMHDiQsWPHYrVae8Tmu+Q2nBACr1dl54Eq7I0ehIDRQ6NJigtts+K6+S6kAQINAUJCKA5w1yDc1eCpB80LkhGMkWimGDBFo0lm0FSEpp430q5pMCg9nCEZERwosHG6uol9h2uZMT7hoqjZXq+XqqoqnVD79++vM2LLEqn4+Hh9lw9cl88//5ynn36a3bt343K59P5hYWHMmTOHZcuWMWjQIBRFQZZlSktLeeSRRzh79iwLFiwgLy+PVatWUV5ert8bFBTEnDlzeOqppzCbzTz66KN88sknnDlzRu8THBzMVVddxZNPPklaWpo+rm3btrFy5Uq2b9+OzWZrNofg4GCmTp3K448/zqhRo3RGbWho4A9/+APffPMN48aNo6mpiT/+8Y8UFBTo0kUIQXp6Og888AC33HILZrOZw4cP8+CDD+LxePR37Ny5k507dwIwYMAArrjiCiIiIsjNzeVXv/oVAEuWLGHSpEnNvsNHH33Ec889x4EDB/QNECA0NJTs7GweffRRRo8efUHSLpCGLpkNJwQUltRTUHTWR0gxIYweGoPws1N779Y0NCEBAuE4iVTzBVLNJkTDEfDUger0cYwQIIeCMQI1bBRa7CzU6Bk+BkTlfAE8o0Fiwog+FJXasTd62He4hiEZ4STE9Hx6l8FgoE+fPjojvfPOO0yYMIG0tLRm6lVbm6AQgg0bNnD33Xdz+vRpAKxWK1arFZvNRn19Pe+99x5FRUW8+uqrDB48uJUG8+WXX7J+/XocDkezZzudTj766CPq6uoQQrB58+ZWY3c4HHzwwQd4PB5eeeUVwsLC8Hg8/OlPf9JVZEmSMJvNeqjD4XDw2WefYbPZeOedd0hJSWn13IKCAh588EHq6upaSYaioiIefPBBXXIFBweTkpKC3W7XJaHFYiEyMhJVVUlISOgULs/LL7/MsmXLqK+v1z2fBoMBt9tNY2Mjn332GWVlZbzxxhsMHz78giWd7jS52BJOCGh0KOzMq8LhUjAaBBNHxhJhNZ2fmIUEbhvy6feRyt5ENBQgNOWc1GpRAqA4wF2N3FCIVvERUvhlKCm3o8ZdBVJIgMLa1mJoJPYJZtSQaL76uoK6eje7D1Yzb1pKh7HC7qyZLMtMnz6d119/HZfLxYYNGygtLWXu3LnMmDGDQYMGERcXh8lk0u0XPyGfOHGCZcuWcfr0aYKCgli4cCE333wzCQkJFBYW8tJLL/H3v/+dvXv3snLlSv7nf/4Hs9nc7P02mw2z2cyNN96og5R+9dVXfPTRR3g8HrZs2QKA2Wzmmmuu0fvk5OTw0Ucf4fV6+eyzz8jJyeEHP/gBZrOZ6667jpycHKZPn86sWbNISUlBURT27dvHqlWrKCsrY8+ePbz77rs88MADrdatvr4eIQTZ2dlce+21WCwWqqqqeOONNzh+/Dhnz57lz3/+M1dccQUTJkzgiy++YNu2bdx11124XC7mz5/PE088oaux0dHR7X4bSZLIycnhySefpL6+HqPRyJVXXskNN9xAfHw8x48f5/XXX2fPnj0cOXKETZs2MXz48G5/91aB70thwx0qtFFyqgGA9GQrQzIiUDt8r099lOxHkL99zCfVNK+PySRDBz7Qc7dqXkRdLqL+AKotB2/GQ2hBSaC1rxpIQjBmWDRHi89SWeMgv/AMQ/pFMCAtrN04YHe0AkVRmD17Nrfffjsvv/wyiqKQn59Pfn4+L7zwAomJiUyYMIH58+czZcoUYmJidCfHJ598wsGDBwG47bbb+N3vfkdISIjukRs1ahS33347X375JevWreOOO+5g8uTJrcawaNEifvvb3xIaGooQgh//+McoisLatWv1Pj/96U9Zvnw5FosFIQT/8R//QVNTExs2bMDpdJKTk8P8+fNRVZXZs2fz0UcfMWTIEEJCQvRnzJ49m9jYWBYvXozb7WbLli3ce++9BAUFtRrTjBkz+Mtf/tJMAo4ePZpbb72V2tpaDh48yIkTJxg2bBhhYWEcO3ZMX3+r1Urfvn31zak9DQHA4/GwevVqXa2/5ZZbWLFihe6YmjVrFjNmzGDJkiWMGzeOhQsXXlDyQSCPSS0lXE9fArDVudh1sBpF0QgJkpk4sg9BZll3ELQJUyBkpLpdGPIXIVd/fs4Wkzuf+SwECANCdSGVv43xm3uRGr8FIeuYKi0vDYgMNzMuKwZZFjhdCrkHqnC6lB6BUwhcF4vFwhNPPMGKFSvIysrSsySampo4duwYa9asYeHChSxYsICcnBzdKbFp0yYAYmJi+MlPfoLZbMbtduP1enG73cTHx3PrrbciyzK1tbXs3bu31TgSEhK44447CA4OxuPx4Ha7CQ8P5/rrr9c9fwkJCfz0pz8lJCRE7xMREcFNN92k96mrq9O9j8HBwYwePVp/ZmNjI3a7nYaGBsaPH09MTIw+P7/tFUh7ZrOZu+++m+TkZDwej35NnjyZESNG6O/z25x+L2RLr2KgRtCSQfz0Vl5ejh+PNSEhgcWLFxMeHq5n+rjdbtLT03nllVe47777iIqK0hmuO1crL+WF7Nbn1Vs1jd35NVTZnAAM7R9Jv2TrObNLtK2iCRnJfhDDkV8h2Q8BcjdKDL5jPKGBqN2MoeDXeIb+ES0oAbT21cusgVEcOX6WYyfrOVFqJ7/wDGOHxfSoLaeqKlarlXvvvZcbbriBr7/+ms2bN/P1119z9OhRbDYbHo+H7du3s3jxYtasWUNMTAyFhYX6Lv3MM8+0UheFEPrODXDs2LFWu3NaWpqu8umZNudsH7PZTFNTE+np6aSmpjbro2kaCQkJmEwmHA4HZ8+exev16udNHD16lI0bN5KXl8epU6dwuVwIIXA6ndTW1gLgcrl0z2Jgi4mJYejQoc3GKoTAbDbTt29f3cnhty87E4drT50sLS3V7d+hQ4eSnp6uO6wCW2hoqL42PcEbPZ7aJQmBkAJPCBGUnGrkwFEbaBARZmLc8BgkiY5VSVc1cuEjSPX5HaiPXTQiNRmpdhPyiT/gHfgESKZ2PZZBZokJI2IprWzE5VLYdbCa/qlWoiPMAb4XX+6ldgG2r3/HjY+PZ/78+cybN4+GhgYKCgpYu3Yta9asobq6moKCAt566y3uuece3SN59uxZPvzww/O+w+12txqfwWDQY2WBhCTLsv57YPwtsE+gZPczhyRJfPnll/zyl7+koKCgU1K+LUbwOzpavi8QkeB8jovOMIbX69WfExMTo2sXHX3HC0WNa7c8pzsRfkkSaBqU1zj4tqyB0qomTEaZ9IQQjhTaaGzyIEmCscNiiIsO7gB4VYAAw6m3kWpzfCpkT3puNAn51F9Ro6aj9LmqA3tO0C/FwpD0cPIKbFTbnGzZW0lcXCgnTjf6XNUJIWQkhhIbYfaFLLqQ5xioSvvX3+92tlgsjB8/nnHjxpGWlsb999+PqqocPnwYVVX18x6io6P5z//8T93uaE+KtpXy1JOZHZIkUVlZyaOPPkpBQQEmk4l58+YxdepUnWltNhvPP/98s/BCZ7NF2tWC2rn/fE5AfxKzXy0+ffo0TqdTX9e2GKWnYnBdjsO1tFv85SynbU7e2ljKuu2nOVXrxOFWkM7lRFrMMgPigpg6LJqRQ6I6XkgEkqME+dQ7CNSeZTi/eqk0IJf+BTVqCprB0maBkKaBwSAxcVQfvj1pZ1dhHR/vr6XJpdDk8jFGSJCBtPgQfjQjmRumJREWauh0hYEQArvdjsPhID4+vlkYwL8DG41GMjMzMZlMOJ1OnE4nkZGRDB06lMLCQpqamsjKyuK6667D6/U2U8MCsznOZ+y3V4Dcng3SVpiisLCQQ4cOATB37lxefvllwsPDdYYsKSnhL3/5i85w7W3ybf3e3r/b+l33G3RQ5qSqKn379iUlJYWCggK++eYbCgoKGDNmjK7qBiYL+E+PupCQQOD3kFruJp3FW/SpEoKi003c/0I+K98/xrFTjTjdii+2pmk0OLycrnOxrfAshTUu5HMQde0blwKpcr3PuYHExWky0tk9SGe2A1I74ziXqSIJ9pc1srvITnW9W2c2gCanl0NF9Tz2xhGWvXoYW72702amJEn83//9HzfccAN//etfqampQZIk/fw9g8FAQ0MDGzduxOn02b4ZGRmEh4cze/ZsJEnC4XDw5JNPsnfv3mZBWY/Hw9atW3n11VdxOp1tBmw7Muy7ogYGel39BJmQkEBYWBiKouj234EDB7DZbN2SCOcLr/jp8uTJk3o2zPlsvPj4eKZNmwZATU0NK1asoLy8HKPRqEu/PXv2cNNNN/HQQw9RWlp6QbioPWLDCQF1djePv3GEnAM1SJLPhmvLUa9pGh9uO83AFAuL5qd3oFw3Itm2+hwaPWG7tSflvI1INZvwxsz+TqS12JEcbpXfv/ct276x6V7N1h/cF7/7W045UWFGHrp54Hnh2YUQNDU18f7777Nnzx4WLVrEkCFDmDFjBqmpqT7kMJeLrVu36h7JsLAw5s+fjxCCq6++mvfff59Nmzaxd+9ebrrpJhYsWEBiYiKaplFQUMCHH36Iw+EgNDSU66+//oJtno76aJpGWFgYISEhOJ1O1q9fz+TJk5k4cSJer5fc3FyeeeYZGhsbu5WZ0dF74+LiiIiIwOFwsHPnTp599llGjhzJN998w/XXX8+QIUPavE+WZW6//XY+//xzTpw4wfr166moqOCaa67BarVy6tQp3n33XYqLi9m9ezd9+/blvvvuu6BskzZtuK4wnCQJPt9bxeb91c3qy9pbQI9X5bX/O8n0UbEMTrG0TkwWMpLzJFLDYV+w+2I2IZDs+QhvPZohrA01GXYdtvHJjopzGCwdz03VNN7bXM6ccXGMGxKJqorzxuH69OmD2WzG6XSyf/9+9u/f32Zfv7v88ssvx+v1Ehsby29/+1t+/vOfc/DgQY4fP87TTz/dOnPGaKSoqKhT0qu79ptfRRsyZAjz58/njTfeoKysjEWLFhEfH4+iKJw6dYrg4GDCw8M5e/Zsp6RmS62rLfVRURRSU1OZNWsWb775JvX19SxfvhxZllEUhcjIyFYM53+OoigMHz6cxx9/nP/+7/+msrKS3bt3s3v37lZjmTJlCtdee223VMpANb/NOFxXxKTTrfL3XZW4vWond0mfU2V7fm07cTeBcNeAtx642GVCAuEsRbgqW6muPmh0jQ27KrA3eToN/2eze/j7rkqf5/I8cZmQkBBWrFjBK6+8wpVXXkliYiJGo7HZM8PCwpg4cSLPP/88Dz74oF6AqigKo0aNYvXq1dx+++34Tzzyt+DgYIYPH86zzz7L3Xff3Wl7rD376Xz3qKqK2Wxm2bJl3HbbbURFReFwODhx4gRlZWWkpaWxdOlSMjMzO+UsOZ+6GygczGYzS5Ys4brrriMkJARN0/B6vXqWSlvhh8DnXn/99bz++utceeWVREZGNvPKxsXFceedd/LSSy+RmprarThcuyplV71UkhCcbfBQXNHUac+cLzlXZd+3dbi9KrLURnqjp86XiHzRmwCvHdw1EDqo1Ud1uhVOnG7q6n7G4WI7TpdXB5DtaC2Dg4O54YYbuOqqqygtLeXo0aOcPn1aJ+DBgwczZMgQIiIimgVz/Tv0oEGDeP755zl58iQHDhygqqoKWZbp168fWVlZxMbGNnPGpKam8vTTT+N0OklKStIZPDAOl5aWxooVK3C5XO32ycjI4JlnnsHtdtOvXz9kWdZjeM899xx33XUXBw8exOVyER0dzbhx40hISCAtLY0bbriBuLg4goODUVWV0NBQHnzwQWpqaggLC8N/oExLIl2wYAGZmZnIsqwnEvvqHH0OkJdeeok9e/Zw7NgxJEkiMzNTr32bPHkyK1euBOCyyy7Tn+////Tp0xk7diwFBQXk5+fjdDoJDQ1l1KhRDBo0SC/56ak4nFizZo02ceJEEhISOq1SSgJKqxwseGwP5dUOpE6CrHoVleysaF578DKCWhClJgwYytdgLvjld8nIF6tpGpochGvEWyiRU5oxuRCCRqeX257ax64jZzDInZ/bpGHRvPGQb25dqQT212K1V4/VVsjB/1vLe9vyTPr7+iVhW7Vene3jj5f5GTAwq6Oteji/48Tv4GhZG9fe7y1tLv8zW2aY+Ncx0IES+KyW423LDms5br+E6iksGSEEp06dYvv27d2z4TQEJqNEiFnu8nlqsRFmjAap9fuEBoYwNCGfy5m8BFJOSG0a6bIkzp1DoHVJvZVbBGw727oTzPX/1llDXtO0ZuUs3e3TUtq2ZVu1Nab21Lv2fm9p83Y0z/aec77xdmbcF2r/thn47iqRaEC4xUjf+BCOlto7RZT+MMKo/uGYDBKK2mInAzRjBAgDcLEZTgODFc0Yje8EVK2ZV9VklEiPD2HHodouMXBmmpUgk/QvgSnilxiB1daB2SDthRv+0a3lGFtK0vakXFtM4peMHVW4d5VBu12eE2SUmDuuD1v2V7dinna0OJJigpicFd1OlYCKZozxeQ0Vx0V2nGioQcmopj6tcio1wCAJ5o2PY92O0zQ5lfPOTdU0Iq1G5ozt40to0c6jxwd8zM7swIFqT6Bku1hn+TU0NPDJJ59QX1/P8OHDmThxol4ZvXHjRmJiYpg2bVqblejnm3dbc2ipQnalXyBEg6ZpVFRU8OWXX5KYmMjkyZMxmUw0NDSwfv166urqGDp0qF5u1FHzJ4o7nU6uuOIKPZB/oTacfO211z6akpLSaUSoQMpMjAmisLSB4+VN7caq/C8yGiR+cW06V4zp04wgmxGNHIpctwPJUXRxQwOaihIzB2+fq9qMw2lAfFQQp2qcHCq2d0hM/oqIW2an8MNpiedNB/JnmaxZs4acnBysVit9+vTpsHLCf23bto0PPviA48eP079/fz3I29NXZWUld955Jx988AEWi4U5c+bg9Xp55JFHeOSRR/j000/JzMwkMzOzTW9c+04zhXXr1rFhwwYOHTpEenq67l1sFmZRVTZs2MD69es5evQoGRkZekFrYD+Xy8V7773H559/TmVlJWlpaTz00EMsX76cTz/9lGHDhjF48GAqKipYtGgR7733HkFBQcydO7fDbyTLMq+++iq/+MUv+PDDDwkODiY7O/uCNrj6+npKSkq6H4fTgAiLkYdvGYTTrbItv7YZCFBgP0nAtZPjWXhFSptxlu8cGSGokVOgdvPFc5xoGpohFCV6BiAjUFq9x3++wP0L+lNa6WD7NzY0H8BDC/sADAbBtZMT+MW1/TDKUsfV63yH2LVixQrKysr46quveO211/TM9LZUND++4kMPPcT+/fsZOnQos2fP1uvgelrCtUUH/piaf/f3x9S6QjOyLLN//36effZZjEYjcXFxXHPNNa3mUF5ezm9+8xu+/fZbrFYrAwcOZNKkSc1UQSEEJSUlLF26lIqKCn75y18yd+5cvQK8sbFRr+TuKNTR1savaRpVVVU65EJNTU23eKQljV9weY6qQXpCCL+/Zxhvf1nGJzsqON0ql1JiQFwwA2PNqEoHUA7C56Twxl7lS15u+haQL4J4U1DDxqBETAI6UMs0AYrKqJQQPA4PJ2pdNLoUHIG5lHHBLJieyA+nJhIWYuxU+U5Lgv7yyy/5+OOPWbhwYYe2xTvvvNMsON5R4Lir0N7ng1jXNA2TycTSpUsZMGAA8fHxzJs3r1UOZ1vPCnyeLMvMmDGD//3f/8XhcLB9+3auvvrqZu+VZZmdO3dSVFQEgN1uZ9u2bUycOLFVMDknJ4eKigqsVitz5swhODiYhx9+mMzMTFJTU5k7d267a9pW/Dnwb3fccQdmsxmXy8XNN9+sS97uhgd6DERI0SA+0sx9P+zHTTOS+La8gbIqh+54KDhWR9FJO5U1TvKO2pg8KrYDG0dDDeqLJ+EmTMeXI3paymkammzBnXwHqhzmg2pop3m8KrkHamhq8jI81cLC2SnExoZQXNGEJCAtIYSMhFBiInznHSidlDQt19jlcrFq1SqmTZtGUlJSq91elmUOHz7MK6+80u5uHBhaqK+v58yZMwghiIyMxGq1tkqODrQJ3W431dXVeDwerFYrMTExbYYgNE1j4MCBPPDAA3qdWuBzNE2jsbGRM2fOoCgKJpNJL33xO11UVSUzM5NBgwaRl5fH5s2bqaysJC4urpk3MycnpxmjbNq0ibvvvpuQkBB9bC6Xi6+++grw5Zn6AZOGDBnCAw88gCRJBAUFdbgpBcbkGhoa9DWyWCz06dOHe+65B0C3Vbt7RkErCXehtXD+nT0h2kxSTFAzoRUfYaKy2kFDk5evD9non2IlLiao/cx6oeGJvwn5TA4G2xbA0GPMBire+AUoUTM6lG6SJDhR1sDREz6VJDbSzLTRfYgKNzF5WNR3m8M5bCLtAk/Z2b9/P6tXr+bXv/51q+d4vV5eeeUVSkpK2mRcP8GXlZWxevVqNm/eTGlpKQDp6elceeWV/PjHPyY2NlYnYj+jffrpp/ztb3/TA76xsbHMmjVLT5Buyfjr1q1j5cqVBAcH8/TTTzNy5Ejcbjd5eXl8+OGH7N+/n5MnT+L1egkODmbkyJHccsstTJ8+HUmSUFWV2NhYJk6cSF5eHseOHeObb74hISEBr9eLJElUVFTo1djJycmUl5dz+PBhjh07xsiRI3UUsqKiIh2la+bMmURH+3BE//SnP/H++++TlJTEc889R0JCQodOHEVRePXVV3n77bdRFIX58+dz3333sXPnTh5//HG8Xi/33Xcf1113XbdzKVuV51yIftqSpgMxH4UQJMQGkzUwgp0Haqizu9lzqJa5UxLbD5ZrKpopBnfGMoS7Brnh0LkyHXGBzKbgjZqJu+99aJL5XPlP2890uhR25dfgcisYZB/OSbjViFdpb7fsvGRryVAmkwm3283q1auZP38+WVlZ+oeVZVl3lAghMJlMuFyuVmCwBw8e5Je//CW5ubkAeoZIaWkpX331Fdu3b+fZZ58lNTUVTdNoampixYoVrFq1iqampma204EDB1i/fr2e3R/4rsrKSvbu3UtwcDD19fXIssyRI0f4yU9+om8Ifve71+vl2LFjbNq0iaeeeoqbb75Zn//MmTN57bXXcDqdbNq0iRkzZuh/27dvHyUlJYSHh/Ozn/2MlStXUlNTw86dOxk5cqTeLzc3l/LycsxmM5MmTdJVvuLiYvbv3091dbVerNteepjX6+Wll15i+fLl2O12Lr/8cm688UaCg4Ox2Wzs2bMHRVGoqqq6oNq4bpfndKcsQRKC0UOjiYn0qSBHis5SXN5wzn3eRg4agKagWIbhGvg0imWoz3Xf3c1A09DQ8EZOwzXgt6hmH7yCvwi2rby9Q9/WUXLKl92elmRhaP/wC8Z2aU+tzM7Opn///pSWlrJq1apmGJMNDQ28+OKL1NbWMmHChGbIUf5n1NbWsnTpUnJzc4mKiuK+++5j7dq1fPDBByxevBir1cqGDRt46qmncDqdSJLERx99xAsvvEBTUxPJycncf//9vPzyyzz11FNMmDCBo0eP0tDQcF5TQ1VVUlJS6N+/P2PGjGHJkiW89dZbvPvuuyxevJjIyEhsNhsrV66krKxMZ4rRo0eTkZEBwI4dO3QHjKIofPHFF7hcLtLT07nuuuvIysoCYMuWLTqsnx/ACGDgwIFcdtllXXIe+TeEF198kSeeeAK73c7UqVN5/vnnm2FttnVfd/ngkgHBakBkmJExw6L5fPtpHE6FXQdrSYoLwWTswPWvKShhY3EOeRFz0XJk2+bvULs6J1J8aqMUgrfPtbjSf4VqTmzXbtM0DUkI6upd7P3GhqJoBJllxmZFYTZJPXZ8Vcs1HjhwILNnz+bXv/41a9euZf78+cydOxeAzz77jM8//xyr1co999zDO++80+zjSZLEli1byMnJwWAw8PDDD7No0SJdHZw5cyZxcXE88sgjrF+/njvvvJOhQ4fy9ttv43K5iI+P58UXX2TmzJn6PT/84Q/52c9+1iYmZVtzCQ8P5w9/+AMWi4XExESdwObOnYvVauWpp57i2LFj7Nu3T8dIiY6OZuzYsXrx55EjR5g8eTKnTp3SpfTMmTPp168fEydOZOvWrezatYvjx4+TlZVFaWmpntk/YcIEYmJiOl1xL4TA7Xbzhz/8gd///vc4HA49STwtLQ1FUZolg/dEYL+VhOusDdf9HR4yM8JJiffBpxWXN1BQdLZ9KadfCkroYByDn8eV8QhK6JBzEtD7ndRrdqk+2ATNiyZklPDxOAc9i3PAclRzAkJTOszsVjWNfUfOUH0O8CgzI5y0JItuo/WU1G/Zbr75ZrKzs7Hb7axatYqzZ89SXV3Niy++iMvl4gc/+AFXXHFFKzQqr9fLpk2b8Hg8pKWlMXr0aEpKSigqKqKoqIiysjLGjRtHbGwsZ86cITc3l+LiYr755hsA5s2bx/Tp01FVFa/Xi8fjITk5mbvuuqvVWWsdtQEDBhAVFcWJEyfYt28feXl5HDlyhOTkZEwmE16vl8rKSl0tMxgMXH755RgMBurr69myZQuSJLFnzx6OHj1KUFAQ2dnZSJLEzJkzCQsLo6qqir179+r9ysrKMJlMzJgxo13Q17Zou7GxkWeeeUZntqysLFauXMmAAQPOmz52IZtstyEWuvvCkCCZcVnRnK524nIr7MqvJS3JQpjFeF43vmaMxJ18F96YORhsm5BtW5AbCxDeOlBcPjkqBEghaMYIFOsIvFGX442aimb0IS/7bTbR7tygvNLBgYIzaBqEW42MGRqFQRaoassjDC4MUKalWhYbG8s999zDvn37yMnJYe3atdjtdnbt2kVCQgI///nPMZvNre51uVwcP34c8FU833jjja36KIqiI2YVFxdTU1OjH401bNgwZFluloeoKArDhg0jJiZGj7t1FC7QNI2tW7fyyiuvsGfPHs6ePatvLn7IuZYhAlVVGTFiBMnJyRQXF7Nz507q6urYvn07Ho+HrKwsLrvsMtxuN0OGDGHw4MHs3r2bjRs3smDBAjZs2IDX6yUjI4NRo0bpmSidgZL47LPPaGxs1FV3IYQefO8IvqGnJNxFgzpvPWjISLEyMM1KfmEdVbVO9h+xMW1sXCcmcg7cMygZd+JPEPE3Itw2hKca4bWD5gFhQjNGoBmjUY3RIJkBRQcK0gL+21bzejX2HLLR0ORFCBgxKJLYKLOuSvaUtt0WYXi9XmbNmsW8efN4//33WbFihU5Ed9xxByNGjMDtdreyBwIdJH44uZbeRb8EUhSFfv36Nfs9kBmahUQ8nma7fXsEJ0kSO3fu5K677qKsrIz4+HgyMzN1hqurq+PIkSOt8CP9tt+ECRMoLi4mLy+P3Nxc3S6bOHGiXqoTHh5OdnY2u3fv5uDBg+zfv5+8vDwAJk2apGPCdJZ2bTYbkiSRlJREZWUlBw8eZPny5Tz33HOtsl56SuBcUhuuWR6ZDGOHRVFc3oC90cuBo3UM6GslsU9w5whaUwEVTZh8zg9zIn6kr3O6Jr5aBq1VXV1Hc5MkwbcldgqLfWGAuOggRgyKuChr0h4KVVBQEL/4xS/Yvn277tbPyspi4cKFHd4zdOhQNm3aRGhoKE8//TRZWVnNJFZgyYnRaKS4uJjo6GjKy8vJzc3lpz/9qR4r84cYcnNz9YyN87WPP/6YsrIyoqOj+fOf/8yECRN8GPoGA9u2beNHP/pRM0eQfy5Go5EpU6bw17/+lbq6Ol577TVOnDhBUFAQl19+OZIkoSgKkiQxffp0Vq1aRWlpKStXrqSkpAQhBFOmTMFkMunHNHe2zZkzh1//+tc89thjfPHFF6xdu5asrCzuvffeDmNtPWLDXQiibHdsufiYIEYOjkQIqG/wsOeQDVX1oX9JAmTJd53PZgy011C95+w65ZwHsi0PoThHUAKDLCHLAlkSGA0SDqfCnkO1uD0qBoNgbJYvDKBdJM9tex6/UaNGceuttwI+7MhFixaRnJzc6uScwGD37NmzsVgsVFRUsHLlSk6fPk1oaCihoaEEBwdz/Phx1qxZg8fjwWAwkJycrLvXN23axOrVq3E6nXoS8K5du3jxxRc75fXzhxjAV6E+YMAALBYLVqsVk8nEvn37mjFb4DdVVZXs7GzdkbJ+/Xrsdjvp6el6aMSf8Z+ZmcnAgQPxeDxs3LgRl8tFamoq48aNa1Yz2BkbbuLEifz+97/nsssuY9myZfTv3x+Px8Mf//hHNm3a1K77vzvM1pIOWx3mcUlOQBWCkYMjKSy2U2VzUnCiHtksY2v0Ul7jJMpqJLOvheH9wog4dwJq16rS2g9yCqDyjIu8Y/UUljbQ5FJITwjBoGqUVToQAtKTLAxODzt31JyGdhHm366XVJK47bbbyM3NJTo6Ws8zbEvl9xPj+PHjWbBgAa+99hrr1q3j22+/Zfz48ZjNZhoaGti+fTsnT56kvr6e+++/n+DgYO6880527NjBmTNnWLp0KRs3biQpKQmHw0FOTo4uYTtSJ/1r6j8HoLS0lCeffJLrr78eTdPYtGkTb775ZrtEq6oqSUlJjBw5kpKSEp3Bp0+frler+/vHxsYyYcIEDhw4oDPY+PHjm0EfdJYpMjMzSUpKwu12M3LkSB577DEWL15MVVUVy5YtIy0trd1jibt6gEdbGTuGzsKk9WQLtxgZNzya1Z+WkFfSwOptlTjciu6cCDHLZPa1cPucVGaPiUWWL8yGEsIHa/f+1tP8dfMpTlQ0nTvjGwyy0M/4Hj8gjIkjojEZxUVTrzvCCfFDFbz++uvIskxYWFiz/L2WNpwf1+M3v/kNBoOBd999lyNHjnDkyJFm70xPTyctLU1n0unTp/P444/rCdR///vfmwXip06dSn5+fjMcyfbmsWDBArZu3crmzZt58803efvtt/W/jxkzhsLCwmZHULU8T2DmzJmsW7dOz9fMzs7WHTmBFfEzZ87kjTfewOl0IoRg8uTJGI3GZv06Q6vNvNKqyrx587j33ntZvnw5+fn5PP7447zwwgsdFv1eyHeX58yZ82i/fv30Uy8vSRNwoMjOqxvLOXXG7aung3NqpcCrqJTVuPgq34bZJBjeL6wZBF+X0MWEoMHp5XfvFbHq42Kq6tx6MawPMVrDo2hU2z00uFSmjYomPtLc42fCBX40RVFoampi4MCBZGdn62UugV4zfzlKIJPZ7Xbi4uIYN24ckydP1vtYLBYdmyMmJobo6Gji4uIYM2YMP/zhD3n44Yf1GjC/JB0xYgRTp04lKiqK8PBw4uLimDBhAnfffTd33303kiQxYMAAsrOzdfSrpqYmzGYzo0ePZvr06URGRhIWFqZLJT8uyahRo7jtttv4r//6L/000WnTppGamtoqgBwWFqbbq9OmTWsGCBTYoqKiEEIwcOBApkyZwo033qjniQaurd1uJyIignHjxpGdnU1QUJC+3v37929zvYcOHUpISAj9+vXDarWSlpZGREQEQgh9nfzStLvt7NmzHD9+HLFy5Upt1qxZF/zAzjZZEhw52cA9z+VTXOno8Ow1VdWwBMs8ddcQrhrfh+7EnjVNY9W6Ep7/2wnUDrxZPh0bxg+J4I/3DiM23MTF3H66kwjbUSa+3+HhDxd4vV5MJpPuxWwrxuS32/z9zWZzK9Ccll7stn73J077T58xGo3N0IoDIQbadlpJzVTNzs6/K33a+z2w4DVQ02hvrt1pfvTpzz///NLbcF5F451N5ZyocJwXoEeSBPYmhVc2nGRCZiTRVmOXmE6W4GhpE29vKkdRtQ7BjnyLrrHnaB3rd1Zyx5yUHssu6Sk1/XxxJj9T+dGb22O0wJhbe/07C0XuJ1A/2I+fidvDGOloHD2xZt05Vac9wKS2NpoL/eY9mrx8fk4XlFY72JJXi9RpWHAoLG1kz5EzTMqMbA0gex5punFvNZU2V6eywfyYlF98XcOCqQmEBMmXlKH+mVtLgrwUm/f3sbWHfdIqDncpCESgUWFzUVvv6cK5igKHW+Gdz8s4fry+a+MU8OWhM6gaHaquzW0+KK5ooqrORXpCSLel3L8rwfVuRu3P95JLOBB0yzDSoLbezZl6d9e8lQJcbrVLIQUhwOlWaXQq54U57yXA3g2gs5vvBcHkXZBa2cXDTH1GLaTFh5CeFNol76EQgsMVji7xuKaBJVgmPNRwQYct9hLgP686fDHX9ZJKOFUVJMcEkRgdxLfljXQS1BhLsIGbr0xmzMDwLql4siQQQTJ7jtV3Ot9O1TQGpoQSE27q8F3/ykTZqw737DduJuEURdEcDoe48Grv89+vAnGRZq4cG8O35Y2dYgJFhZH9wxiaZtVjZ11RD6cMjyI9Pphjp5rOy+CapmEySswZG0uIWWq3wruXKHvV4a6ukcPhQFEUTVIU5bT/0L8LyZPsTB6hHxNowbQERvUPQ1E7/mCKqpEYbebu+alYg+UuZ5v4wWcXXZ1KaJB8XomlajB7dCyzLotBUelWTuSly0v9flzfR+L+Pq7RucMxT8vTpk2barFYBqelpV2UpNyWEkfTICLUwNA0K0dLGzhtc/kYsQWjKKpGSp9gli7sz5Ss6Av6uAOSQgkJkjlYZPedYipaqrq+kMUVo2P4zY8ziA4z/cvs3P+O9tj37dI0jfz8fCorK7+Up0+fHu31emenp6dLLdFtLx4RQJ8IE5OGRhIaZOBsg5dGly+X0miQiIsyc+XYWB64qR8TMyMvuBZNEoLh6VaG9LXgcKvUN3rxeFVAEBwkMzjVwh1zkvnFNX3Pa7v1EuD3+/q+bUb+dLPdu3d7HQ7Hi+LRRx9NlyTp48mTJ2eNGjXqkqoKkuQLE1SccVF0qonKOjfhoQb6JYSQHBuEURa+aoEeOjJIEuBwq5RUOiiucOB0KyTFBJGRGEKk1QgaHaZ/9dpjva07dPf111+zbdu2fFVVrzGoqnpCVdU38/PzV/Tt21e0dSjexZR0APFRZhKjzfgrSdVzECXKOVWzp8aiamA2SgxOCWVIqsU3BrRmoGDnP5Sklyh7N4DOChQJm81Gfn6+5vF43hRCnDCcI7DXbTbbnJ07d86cOXNmq0z1i70oPjxLH/m3+ttFWAhFu1hP7iXKnlaF/1m/iRACp9PJjh07qKmp2SxJ0uuAHviu1jRtSWFh4ZqgoKD+kyZN4lLZc70E+O9JlP/K393PbNu3b+fo0aPHgCWaplVrmoa8detWpk6ditfrLRdCFFZWVk6or6+PioqKIiQk5J+OkHsdBL2q7z+a9mpra9myZQuHDx8+pmnaYlVVtwoheOqpp75zkC9dutSPezFO07QVUVFRU4cNGyYNGDAAq9Wql130tl5p0dvaMFMUBbvdTmFhIQcPHlRsNtsWIcQSj8ez22Qy8fTTT/uYMvCmpUuX+ovv+iiKcossy7dYrdZhiYmJclxcHEFBQQQHB/9TqDG9RNPbLnZTVRWn04nD4aCyspJTp04p9fX1hxRFWS1J0mqgBmDFihXfScG2HrRkyRIsFouw2+0pqqpeDVwuhBgnSVKSJEnifJkWvbt+b/s3kmyaqqrlmqbtBb6QJGl9SEjISYfDofmlWmD7/y/4QwUI9ZzIAAAAWHRFWHRjb21tZW50AEZpbGUgc291cmNlOiBodHRwczovL3d3dy5zZW1hbnRpYy1tZWRpYXdpa2kub3JnL3dpa2kvRmlsZTpTTVdfcG93ZXJlZGJ5XzI1MjAucG5nR/HgGQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wNy0wMlQxNTozMTo1NSswMjowMJD7GggAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDctMDJUMTU6MzE6NTUrMDI6MDDhpqK0AAAAPHRFWHRzb2Z0d2FyZQAvdXNyL3NoYXJlL2RvYy9pbWFnZW1hZ2ljay02LWNvbW1vbi9odG1sL2luZGV4Lmh0bWx15G87AAAAGHRFWHRUaHVtYjo6RG9jdW1lbnQ6OlBhZ2VzADGn/7svAAAAGHRFWHRUaHVtYjo6SW1hZ2U6OkhlaWdodAA4ODHPniohAAAAGHRFWHRUaHVtYjo6SW1hZ2U6OldpZHRoADI1MjDhfK24AAAAGXRFWHRUaHVtYjo6TWltZXR5cGUAaW1hZ2UvcG5nP7JWTgAAABd0RVh0VGh1bWI6Ok1UaW1lADE2MjUyMzI3MTXeTZeiAAAAEnRFWHRUaHVtYjo6U2l6ZQAxMzVLQkL58MQeAAAAAElFTkSuQmCC" alt="Powered by Semantic MediaWiki" class="smw-footer" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+</footer>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0.001},"limitreport":{"cputime":"0.055","walltime":"0.057","ppvisitednodes":{"value":515,"limit":1000000},"postexpandincludesize":{"value":10517,"limit":4194304},"templateargumentsize":{"value":1858,"limit":4194304},"expansiondepth":{"value":10,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   16.157      1 -total"," 68.47%   11.063      2 模板:参阅"," 55.65%    8.992      2 模板:Cbox2"," 44.93%    7.259      2 模板:Cbox2/core"," 15.56%    2.514      4 模板:Mdi","  8.52%    1.376      7 模板:Color"]},"loops":{"limitreport-count-limited":{"value":0,"limit":800}},"cachereport":{"timestamp":"20231121104935","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":559});});</script>
+</body>
+</html>

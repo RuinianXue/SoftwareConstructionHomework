@@ -41,13 +41,12 @@ namespace FinalCrawler
             this.performanceCounter1 = new System.Diagnostics.PerformanceCounter();
             this.Result = new System.Windows.Forms.DataGridView();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
-            this.phoneNumberGridView = new System.Windows.Forms.DataGridView();
-            this.LabelOfNumber = new System.Windows.Forms.Label();
+            this.listView = new System.Windows.Forms.ListView();
+            this.label3 = new System.Windows.Forms.Label();
             this.tableLayoutPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.performanceCounter1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Result)).BeginInit();
             this.tableLayoutPanel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.phoneNumberGridView)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -104,7 +103,8 @@ namespace FinalCrawler
             this.InputURL.Name = "InputURL";
             this.InputURL.Size = new System.Drawing.Size(453, 28);
             this.InputURL.TabIndex = 3;
-            this.InputURL.Text = "https://cs.whu.edu.cn/xygk/xyjj.htm";
+            this.InputURL.Text = "https://cs.whu.edu.cn/";
+            this.InputURL.TextChanged += new System.EventHandler(this.InputURL_TextChanged);
             // 
             // performanceCounter1
             // 
@@ -128,8 +128,8 @@ namespace FinalCrawler
             // 
             this.tableLayoutPanel2.ColumnCount = 1;
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel2.Controls.Add(this.phoneNumberGridView, 0, 1);
-            this.tableLayoutPanel2.Controls.Add(this.LabelOfNumber, 0, 0);
+            this.tableLayoutPanel2.Controls.Add(this.listView, 0, 1);
+            this.tableLayoutPanel2.Controls.Add(this.label3, 0, 0);
             this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel2.Location = new System.Drawing.Point(0, 541);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
@@ -140,26 +140,27 @@ namespace FinalCrawler
             this.tableLayoutPanel2.TabIndex = 3;
             this.tableLayoutPanel2.Paint += new System.Windows.Forms.PaintEventHandler(this.tableLayoutPanel2_Paint);
             // 
-            // phoneNumberGridView
+            // listView
             // 
-            this.phoneNumberGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.phoneNumberGridView.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.phoneNumberGridView.Location = new System.Drawing.Point(3, 46);
-            this.phoneNumberGridView.Name = "phoneNumberGridView";
-            this.phoneNumberGridView.RowHeadersWidth = 62;
-            this.phoneNumberGridView.RowTemplate.Height = 30;
-            this.phoneNumberGridView.Size = new System.Drawing.Size(1239, 149);
-            this.phoneNumberGridView.TabIndex = 4;
+            this.listView.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.listView.Font = new System.Drawing.Font("Consolas", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listView.HideSelection = false;
+            this.listView.Location = new System.Drawing.Point(3, 46);
+            this.listView.Name = "listView";
+            this.listView.Size = new System.Drawing.Size(1239, 149);
+            this.listView.TabIndex = 6;
+            this.listView.UseCompatibleStateImageBehavior = false;
+            this.listView.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.listView_MouseDoubleClick);
             // 
-            // LabelOfNumber
+            // label3
             // 
-            this.LabelOfNumber.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.LabelOfNumber.AutoSize = true;
-            this.LabelOfNumber.Location = new System.Drawing.Point(3, 12);
-            this.LabelOfNumber.Name = "LabelOfNumber";
-            this.LabelOfNumber.Size = new System.Drawing.Size(107, 18);
-            this.LabelOfNumber.TabIndex = 5;
-            this.LabelOfNumber.Text = "PhoneNumber";
+            this.label3.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(3, 12);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(152, 18);
+            this.label3.TabIndex = 7;
+            this.label3.Text = "Pictures Fetched";
             // 
             // Form1
             // 
@@ -178,7 +179,6 @@ namespace FinalCrawler
             ((System.ComponentModel.ISupportInitialize)(this.Result)).EndInit();
             this.tableLayoutPanel2.ResumeLayout(false);
             this.tableLayoutPanel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.phoneNumberGridView)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -194,8 +194,8 @@ namespace FinalCrawler
         private System.Diagnostics.PerformanceCounter performanceCounter1;
         private System.Windows.Forms.DataGridView Result;
         private TableLayoutPanel tableLayoutPanel2;
-        private DataGridView phoneNumberGridView;
-        private Label LabelOfNumber;
+        private ListView listView;
+        private Label label3;
     }
 }
 
