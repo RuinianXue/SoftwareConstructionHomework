@@ -40,7 +40,7 @@ namespace FinalCrawler
             pending = new Queue<string>();
         }
 
-        public void Start()
+        public async Task StartAsync()
         {
             this.visitedUrls.Clear();
             this.errorUrls.Clear();
@@ -50,9 +50,8 @@ namespace FinalCrawler
             while (pending.Count > 0 && visitedUrls.Count < MaxPage)
             {
                 string url = pending.Dequeue();
-                Crawl(url);
+                await CrawlAsync(url);
                 Console.WriteLine(url);
-
             }
             //CrawlerStopped(this);
             Console.WriteLine("Crawling finished.");
@@ -60,7 +59,6 @@ namespace FinalCrawler
             foreach (string url in visitedUrls)
             {
                 Console.WriteLine(url);
-
             }
             Console.WriteLine("Error URLs:");
             foreach (string url in errorUrls)
@@ -69,40 +67,34 @@ namespace FinalCrawler
             }
         }
 
-        private void Crawl(string url)
+        private async Task CrawlAsync(string url)
         {
             if (!visitedUrls.Contains(url))
             {
                 visitedUrls.Add(url);
-                
+
                 try
                 {
-
-                    string html = DownloadHtml(url);
-                    //Console.WriteLine(html);
-                    //if (IsHtml(html))
-                    //{
-                        //Console.WriteLine("111111");
-                        ParseHtml(html, url);
-                        PageDownloaded(this, url, "success");
+                    string html = await DownloadHtmlAsync(url);
+                    ParseHtml(html, url);
+                    PageDownloaded(this, url, "success");
                     Console.WriteLine("!!!!!!!!!!" + url + "!!!!!!!!");
-                    //}
                 }
                 catch (Exception ex)
                 {
                     errorUrls.Add(url);
-                    //Console.WriteLine("Error: " + ex.Message);
                     PageDownloaded(this, url, "  Error:" + ex.Message);
-
                 }
             }
         }
 
-        private string DownloadHtml(string url)
+        private async Task<string> DownloadHtmlAsync(string url)
         {
-            WebClient client = new WebClient();
-            client.Encoding = Encoding.UTF8;
-            return client.DownloadString(url);
+            using (WebClient client = new WebClient())
+            {
+                client.Encoding = Encoding.UTF8;
+                return await client.DownloadStringTaskAsync(url);
+            }
         }
 
         private bool IsHtml(string html)
@@ -209,5 +201,4 @@ namespace FinalCrawler
         }
     }
 }
-
 
