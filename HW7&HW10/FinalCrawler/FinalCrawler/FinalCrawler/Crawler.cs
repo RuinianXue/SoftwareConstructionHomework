@@ -1,6 +1,7 @@
 ﻿
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Text;
@@ -120,7 +121,32 @@ namespace FinalCrawler
                 }
             }
         }
-
+        #region Picture download
+        private void ParseHtmlPhoto(string html, string baseUrl)
+        {
+            string pattern = @"<img[^>]+?src\s*=\s*[""']?([^'"" >]+?)[ '""][^>]*>";
+            MatchCollection matches = Regex.Matches(html, pattern, RegexOptions.IgnoreCase);
+            foreach (Match match in matches)
+            {
+                string imageUrl = match.Groups[1].Value;
+                if (IsRelativeUrl(imageUrl))
+                {
+                    imageUrl = ConvertToAbsoluteUrl(imageUrl, baseUrl);
+                    DownloadImagesAsync(imageUrl);
+                }
+            }
+        }
+        private void DownloadImagesAsync(string url)
+        {
+            string localFolderPath = "./ImagesDownloaded/";
+            using (WebClient client = new WebClient())
+            {
+                string fileName = Path.GetFileName(new Uri(url).LocalPath);
+                string localPath = Path.Combine(localFolderPath, fileName);
+                client.DownloadFile(url, localPath);
+            }
+        }
+        #endregion
         private bool IsRelativeUrl(string url)
         {
             string pattern = @"^(?!www\.|(?:http|ftp)s?://|[A-Za-z]:\\|//).*[^/]$";
